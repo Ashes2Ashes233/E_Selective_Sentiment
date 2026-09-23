@@ -1,0 +1,14 @@
+# 统一换行：源码与文本一律 LF（服务器/Linux 迁移友好）
+* text=auto eol=lf
+
+# 二进制，禁止任何转换
+*.docx  binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.pdf   binary
+*.pt    binary
+*.pkl   binary
+*.npz   binary
+*.zip   binary
+*.xlsx  binary

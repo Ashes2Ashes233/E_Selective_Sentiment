@@ -1,0 +1,645 @@
+{
+  "words": [
+    {
+      "word": "I",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 0.1001621462264151,
+      "end": 0.12019457547169812,
+      "confidence": 0.7652576565742493
+    },
+    {
+      "word": "have",
+      "char_start": 2,
+      "char_end": 6,
+      "start": 0.7211674528301888,
+      "end": 0.8213295990566039,
+      "confidence": 0.9935933947563171
+    },
+    {
+      "word": "lost",
+      "char_start": 7,
+      "char_end": 11,
+      "start": 0.9014593160377359,
+      "end": 1.1418484669811322,
+      "confidence": 0.9695881605148315
+    },
+    {
+      "word": "at",
+      "char_start": 12,
+      "char_end": 14,
+      "start": 1.3221403301886794,
+      "end": 1.3622051886792454,
+      "confidence": 0.977911114692688
+    },
+    {
+      "word": "everything",
+      "char_start": 15,
+      "char_end": 25,
+      "start": 1.6827240566037738,
+      "end": 2.0833726415094342,
+      "confidence": 0.9766246676445007
+    },
+    {
+      "word": "you",
+      "char_start": 26,
+      "char_end": 29,
+      "start": 2.143469929245283,
+      "end": 2.223599646226415,
+      "confidence": 0.9998073577880859
+    },
+    {
+      "word": "can",
+      "char_start": 30,
+      "char_end": 33,
+      "start": 2.2836969339622644,
+      "end": 2.3838590801886794,
+      "confidence": 0.9994503855705261
+    },
+    {
+      "word": "imagine",
+      "char_start": 34,
+      "char_end": 41,
+      "start": 2.4840212264150945,
+      "end": 2.844604952830189,
+      "confidence": 0.90511554479599
+    },
+    {
+      "word": "seriously",
+      "char_start": 43,
+      "char_end": 52,
+      "start": 3.004864386792453,
+      "end": 3.4455778301886797,
+      "confidence": 0.37640759348869324
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.1001621462264151,
+      0.12019457547169812
+    ],
+    [
+      0.7211674528301888,
+      0.8213295990566039
+    ],
+    [
+      0.9014593160377359,
+      1.1418484669811322
+    ],
+    [
+      1.3221403301886794,
+      1.3622051886792454
+    ],
+    [
+      1.6827240566037738,
+      2.0833726415094342
+    ],
+    [
+      2.143469929245283,
+      2.223599646226415
+    ],
+    [
+      2.2836969339622644,
+      2.3838590801886794
+    ],
+    [
+      2.4840212264150945,
+      2.844604952830189
+    ],
+    [
+      3.004864386792453,
+      3.4455778301886797
+    ],
+    [
+      3.004864386792453,
+      3.4455778301886797
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      7,
+      11
+    ],
+    [
+      12,
+      14
+    ],
+    [
+      15,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      34,
+      41
+    ],
+    [
+      41,
+      42
+    ],
+    [
+      43,
+      52
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1045,
+    2031,
+    2439,
+    2012,
+    2673,
+    2017,
+    2064,
+    5674,
+    1010,
+    5667,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.246875,
+  "sample_id": "-s9qJ7ATP7w$_$4",
+  "video": "-s9qJ7ATP7w/4.mp4",
+  "original_text": "I have lost at everything you can imagine, seriously",
+  "face_detection_rate": 0.6818181818181818,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

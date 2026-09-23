@@ -1,0 +1,709 @@
+{
+  "words": [
+    {
+      "word": "Make",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 0.5017315764925373,
+      "end": 0.6422164179104478,
+      "confidence": 0.7186825275421143
+    },
+    {
+      "word": "sure",
+      "char_start": 5,
+      "char_end": 9,
+      "start": 0.7024242070895523,
+      "end": 0.8629783115671642,
+      "confidence": 0.9432450532913208
+    },
+    {
+      "word": "that",
+      "char_start": 10,
+      "char_end": 14,
+      "start": 0.9031168376865673,
+      "end": 1.0034631529850746,
+      "confidence": 0.999325692653656
+    },
+    {
+      "word": "your",
+      "char_start": 15,
+      "char_end": 19,
+      "start": 1.0436016791044778,
+      "end": 1.184086520522388,
+      "confidence": 0.9959889650344849
+    },
+    {
+      "word": "using",
+      "char_start": 20,
+      "char_end": 25,
+      "start": 1.304502098880597,
+      "end": 1.505194729477612,
+      "confidence": 0.9915870428085327
+    },
+    {
+      "word": "comps",
+      "char_start": 26,
+      "char_end": 31,
+      "start": 1.5654025186567166,
+      "end": 1.8865107276119404,
+      "confidence": 0.9579184055328369
+    },
+    {
+      "word": "that",
+      "char_start": 32,
+      "char_end": 36,
+      "start": 1.9266492537313433,
+      "end": 2.026995569029851,
+      "confidence": 0.9948946237564087
+    },
+    {
+      "word": "are",
+      "char_start": 37,
+      "char_end": 40,
+      "start": 2.107272621268657,
+      "end": 2.187549673507463,
+      "confidence": 0.972137451171875
+    },
+    {
+      "word": "not",
+      "char_start": 41,
+      "char_end": 44,
+      "start": 2.2076189365671643,
+      "end": 2.328034514925373,
+      "confidence": 0.7534108757972717
+    },
+    {
+      "word": "larger",
+      "char_start": 45,
+      "char_end": 51,
+      "start": 2.4083115671641795,
+      "end": 2.789627565298508,
+      "confidence": 0.9712603092193604
+    },
+    {
+      "word": "no",
+      "char_start": 53,
+      "char_end": 55,
+      "start": 3.2311513526119406,
+      "end": 3.331497667910448,
+      "confidence": 0.9392073154449463
+    },
+    {
+      "word": "larger",
+      "char_start": 56,
+      "char_end": 62,
+      "start": 3.3917054570895524,
+      "end": 3.692744402985075,
+      "confidence": 0.9896286129951477
+    },
+    {
+      "word": "than",
+      "char_start": 63,
+      "char_end": 67,
+      "start": 3.7529521921641793,
+      "end": 3.8532985074626867,
+      "confidence": 0.9990477561950684
+    },
+    {
+      "word": "twelve",
+      "char_start": 68,
+      "char_end": 74,
+      "start": 3.9536448227611944,
+      "end": 4.174406716417911,
+      "confidence": 0.9027685523033142
+    },
+    {
+      "word": "hundred",
+      "char_start": 75,
+      "char_end": 82,
+      "start": 4.1944759794776125,
+      "end": 4.395168610074627,
+      "confidence": 0.9903385639190674
+    },
+    {
+      "word": "square",
+      "char_start": 83,
+      "char_end": 89,
+      "start": 4.43530713619403,
+      "end": 4.635999766791045,
+      "confidence": 0.9727225303649902
+    },
+    {
+      "word": "feet",
+      "char_start": 90,
+      "char_end": 94,
+      "start": 4.676138292910448,
+      "end": 4.8366923973880604,
+      "confidence": 0.9841442108154297
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5017315764925373,
+      0.6422164179104478
+    ],
+    [
+      0.7024242070895523,
+      0.8629783115671642
+    ],
+    [
+      0.9031168376865673,
+      1.0034631529850746
+    ],
+    [
+      1.0436016791044778,
+      1.184086520522388
+    ],
+    [
+      1.304502098880597,
+      1.505194729477612
+    ],
+    [
+      1.5654025186567166,
+      1.8865107276119404
+    ],
+    [
+      1.5654025186567166,
+      1.8865107276119404
+    ],
+    [
+      1.9266492537313433,
+      2.026995569029851
+    ],
+    [
+      2.107272621268657,
+      2.187549673507463
+    ],
+    [
+      2.2076189365671643,
+      2.328034514925373
+    ],
+    [
+      2.4083115671641795,
+      2.789627565298508
+    ],
+    [
+      3.2311513526119406,
+      3.331497667910448
+    ],
+    [
+      3.2311513526119406,
+      3.331497667910448
+    ],
+    [
+      3.3917054570895524,
+      3.692744402985075
+    ],
+    [
+      3.7529521921641793,
+      3.8532985074626867
+    ],
+    [
+      3.9536448227611944,
+      4.174406716417911
+    ],
+    [
+      4.1944759794776125,
+      4.395168610074627
+    ],
+    [
+      4.43530713619403,
+      4.635999766791045
+    ],
+    [
+      4.676138292910448,
+      4.8366923973880604
+    ],
+    [
+      4.676138292910448,
+      4.8366923973880604
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      15,
+      19
+    ],
+    [
+      20,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      29,
+      31
+    ],
+    [
+      32,
+      36
+    ],
+    [
+      37,
+      40
+    ],
+    [
+      41,
+      44
+    ],
+    [
+      45,
+      51
+    ],
+    [
+      51,
+      52
+    ],
+    [
+      53,
+      55
+    ],
+    [
+      56,
+      62
+    ],
+    [
+      63,
+      67
+    ],
+    [
+      68,
+      74
+    ],
+    [
+      75,
+      82
+    ],
+    [
+      83,
+      89
+    ],
+    [
+      90,
+      94
+    ],
+    [
+      94,
+      95
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2191,
+    2469,
+    2008,
+    2115,
+    2478,
+    4012,
+    4523,
+    2008,
+    2024,
+    2025,
+    3469,
+    1010,
+    2053,
+    3469,
+    2084,
+    4376,
+    3634,
+    2675,
+    2519,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.3785625,
+  "sample_id": "-tPCytz4rww$_$11",
+  "video": "-tPCytz4rww/11.mp4",
+  "original_text": "Make sure that your using comps that are not larger, no larger than twelve hundred square feet.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

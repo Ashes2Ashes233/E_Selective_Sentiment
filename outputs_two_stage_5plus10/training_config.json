@@ -1,0 +1,14 @@
+{
+  "epochs": 15,
+  "warmup_epochs": 5,
+  "joint_epochs": 10,
+  "patience": 10,
+  "batch_size": 32,
+  "dim": 96,
+  "hidden": 192,
+  "lr": 0.0003,
+  "gate": "soft",
+  "seed": 2026,
+  "threads": 4,
+  "cpu": false
+}

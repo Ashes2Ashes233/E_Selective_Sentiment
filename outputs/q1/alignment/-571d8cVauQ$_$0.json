@@ -1,0 +1,669 @@
+{
+  "words": [
+    {
+      "word": "This",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 1.0626207329317268,
+      "end": 1.16286797188755,
+      "confidence": 0.49543604254722595
+    },
+    {
+      "word": "is",
+      "char_start": 5,
+      "char_end": 7,
+      "start": 1.2430657630522086,
+      "end": 1.283164658634538,
+      "confidence": 0.520791232585907
+    },
+    {
+      "word": "Rhett",
+      "char_start": 8,
+      "char_end": 13,
+      "start": 1.343313002008032,
+      "end": 1.5037085843373492,
+      "confidence": 0.41801339387893677
+    },
+    {
+      "word": "Reiger",
+      "char_start": 14,
+      "char_end": 20,
+      "start": 1.5638569277108432,
+      "end": 1.8846480923694777,
+      "confidence": 0.8510229587554932
+    },
+    {
+      "word": "White",
+      "char_start": 22,
+      "char_end": 27,
+      "start": 1.9648458835341363,
+      "end": 2.1452909136546183,
+      "confidence": 0.9921287298202515
+    },
+    {
+      "word": "Caspian",
+      "char_start": 28,
+      "char_end": 35,
+      "start": 2.1653403614457827,
+      "end": 2.546279869477911,
+      "confidence": 0.8373781442642212
+    },
+    {
+      "word": "Studios",
+      "char_start": 36,
+      "char_end": 43,
+      "start": 2.62647766064257,
+      "end": 3.0675655120481924,
+      "confidence": 0.9722015857696533
+    },
+    {
+      "word": "on",
+      "char_start": 44,
+      "char_end": 46,
+      "start": 3.147763303212851,
+      "end": 3.207911646586345,
+      "confidence": 0.998647928237915
+    },
+    {
+      "word": "behalf",
+      "char_start": 47,
+      "char_end": 53,
+      "start": 3.268059989959839,
+      "end": 3.5287028112449796,
+      "confidence": 0.9982737302780151
+    },
+    {
+      "word": "of",
+      "char_start": 54,
+      "char_end": 56,
+      "start": 3.6289500502008027,
+      "end": 3.669048945783132,
+      "confidence": 0.9902501106262207
+    },
+    {
+      "word": "Expert",
+      "char_start": 57,
+      "char_end": 63,
+      "start": 3.7492467369477906,
+      "end": 4.049988453815261,
+      "confidence": 0.8984753489494324
+    },
+    {
+      "word": "Village",
+      "char_start": 64,
+      "char_end": 71,
+      "start": 4.110136797188755,
+      "end": 4.4108785140562246,
+      "confidence": 0.9977819919586182
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1.0626207329317268,
+      1.16286797188755
+    ],
+    [
+      1.2430657630522086,
+      1.283164658634538
+    ],
+    [
+      1.343313002008032,
+      1.5037085843373492
+    ],
+    [
+      1.343313002008032,
+      1.5037085843373492
+    ],
+    [
+      1.5638569277108432,
+      1.8846480923694777
+    ],
+    [
+      1.5638569277108432,
+      1.8846480923694777
+    ],
+    [
+      1.9648458835341363,
+      2.1452909136546183
+    ],
+    [
+      1.9648458835341363,
+      2.1452909136546183
+    ],
+    [
+      2.1653403614457827,
+      2.546279869477911
+    ],
+    [
+      2.62647766064257,
+      3.0675655120481924
+    ],
+    [
+      3.147763303212851,
+      3.207911646586345
+    ],
+    [
+      3.268059989959839,
+      3.5287028112449796
+    ],
+    [
+      3.6289500502008027,
+      3.669048945783132
+    ],
+    [
+      3.7492467369477906,
+      4.049988453815261
+    ],
+    [
+      4.110136797188755,
+      4.4108785140562246
+    ],
+    [
+      4.110136797188755,
+      4.4108785140562246
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      13
+    ],
+    [
+      14,
+      17
+    ],
+    [
+      17,
+      20
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      27
+    ],
+    [
+      28,
+      35
+    ],
+    [
+      36,
+      43
+    ],
+    [
+      44,
+      46
+    ],
+    [
+      47,
+      53
+    ],
+    [
+      54,
+      56
+    ],
+    [
+      57,
+      63
+    ],
+    [
+      64,
+      71
+    ],
+    [
+      71,
+      72
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2023,
+    2003,
+    1054,
+    28499,
+    24964,
+    4590,
+    1010,
+    2317,
+    25893,
+    4835,
+    2006,
+    6852,
+    1997,
+    6739,
+    2352,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.9923125,
+  "sample_id": "-571d8cVauQ$_$0",
+  "video": "-571d8cVauQ/0.mp4",
+  "original_text": "This is Rhett Reiger, White Caspian Studios on behalf of Expert Village.",
+  "face_detection_rate": 0.8846153846153846,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

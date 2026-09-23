@@ -1,0 +1,12 @@
+{
+  "epochs": 60,
+  "patience": 12,
+  "batch_size": 32,
+  "dim": 96,
+  "hidden": 192,
+  "lr": 0.0003,
+  "gate": "soft",
+  "seed": 2026,
+  "threads": 4,
+  "cpu": false
+}

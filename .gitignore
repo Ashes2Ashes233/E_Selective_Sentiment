@@ -1,0 +1,27 @@
+# Python 环境与缓存
+.venv/
+.pip_cache/
+.numba_cache/
+.mpl_cache/
+__pycache__/
+*.py[cod]
+
+# 预训练权重（用 download_models.py 获取，不入库）
+pretrained/
+
+# 训练权重与运行产物
+outputs/best.pt
+outputs*/best.pt
+outputs*/warmup.pt
+
+# 提交打包物与未命名截图（本人确认不入库）
+*.zip
+62c63ad34bfbfc38f83e1dc5d534c69b.jpg
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 保留的对照实验文本结果（outputs_long_soft/、outputs_two_stage_5plus10/ 不整体忽略）

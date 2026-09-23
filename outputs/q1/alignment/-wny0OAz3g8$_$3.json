@@ -1,0 +1,733 @@
+{
+  "words": [
+    {
+      "word": "Which",
+      "char_start": 0,
+      "char_end": 5,
+      "start": 0.5417652138157895,
+      "end": 0.6621574835526315,
+      "confidence": 0.9999371767044067
+    },
+    {
+      "word": "then",
+      "char_start": 6,
+      "char_end": 10,
+      "start": 0.7223536184210526,
+      "end": 0.8427458881578946,
+      "confidence": 0.9668871164321899
+    },
+    {
+      "word": "allowed",
+      "char_start": 11,
+      "char_end": 18,
+      "start": 0.9430727796052631,
+      "end": 1.1437265625,
+      "confidence": 0.9998887181282043
+    },
+    {
+      "word": "the",
+      "char_start": 19,
+      "char_end": 22,
+      "start": 1.1838573190789472,
+      "end": 1.264118832236842,
+      "confidence": 0.9779201745986938
+    },
+    {
+      "word": "white",
+      "char_start": 23,
+      "char_end": 28,
+      "start": 1.2841842105263157,
+      "end": 1.4447072368421052,
+      "confidence": 0.9556847214698792
+    },
+    {
+      "word": "workers",
+      "char_start": 29,
+      "char_end": 36,
+      "start": 1.4848379934210525,
+      "end": 1.765753289473684,
+      "confidence": 0.998724639415741
+    },
+    {
+      "word": "and",
+      "char_start": 37,
+      "char_end": 40,
+      "start": 1.8058840460526315,
+      "end": 1.8660801809210525,
+      "confidence": 0.7918124198913574
+    },
+    {
+      "word": "unions",
+      "char_start": 41,
+      "char_end": 47,
+      "start": 1.9463416940789473,
+      "end": 2.2071916118421053,
+      "confidence": 0.9431998133659363
+    },
+    {
+      "word": "to",
+      "char_start": 48,
+      "char_end": 50,
+      "start": 2.2473223684210524,
+      "end": 2.3275838815789474,
+      "confidence": 0.9999770522117615
+    },
+    {
+      "word": "justify",
+      "char_start": 51,
+      "char_end": 58,
+      "start": 2.407845394736842,
+      "end": 2.8091529605263155,
+      "confidence": 0.9585132598876953
+    },
+    {
+      "word": "their",
+      "char_start": 59,
+      "char_end": 64,
+      "start": 2.8894144736842104,
+      "end": 3.0098067434210525,
+      "confidence": 0.9996036291122437
+    },
+    {
+      "word": "decision",
+      "char_start": 65,
+      "char_end": 73,
+      "start": 3.0499375,
+      "end": 3.3107874177631578,
+      "confidence": 0.9929846525192261
+    },
+    {
+      "word": "to",
+      "char_start": 74,
+      "char_end": 76,
+      "start": 3.3709835526315786,
+      "end": 3.4512450657894735,
+      "confidence": 0.8742204308509827
+    },
+    {
+      "word": "not",
+      "char_start": 77,
+      "char_end": 80,
+      "start": 3.531506578947368,
+      "end": 3.6920296052631576,
+      "confidence": 0.9304572939872742
+    },
+    {
+      "word": "allow",
+      "char_start": 81,
+      "char_end": 86,
+      "start": 3.7722911184210526,
+      "end": 3.9528795230263154,
+      "confidence": 0.9998430013656616
+    },
+    {
+      "word": "black",
+      "char_start": 87,
+      "char_end": 92,
+      "start": 4.053206414473684,
+      "end": 4.233794819078947,
+      "confidence": 0.9857496619224548
+    },
+    {
+      "word": "workers",
+      "char_start": 93,
+      "char_end": 100,
+      "start": 4.3140563322368415,
+      "end": 4.655167763157895,
+      "confidence": 0.946655809879303
+    },
+    {
+      "word": "into",
+      "char_start": 101,
+      "char_end": 105,
+      "start": 4.835756167763158,
+      "end": 5.01634457236842,
+      "confidence": 0.9965432286262512
+    },
+    {
+      "word": "their",
+      "char_start": 106,
+      "char_end": 111,
+      "start": 5.076540707236842,
+      "end": 5.196932976973684,
+      "confidence": 0.9862722754478455
+    },
+    {
+      "word": "union",
+      "char_start": 112,
+      "char_end": 117,
+      "start": 5.337390624999999,
+      "end": 5.55810978618421,
+      "confidence": 0.9900099039077759
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5417652138157895,
+      0.6621574835526315
+    ],
+    [
+      0.7223536184210526,
+      0.8427458881578946
+    ],
+    [
+      0.9430727796052631,
+      1.1437265625
+    ],
+    [
+      1.1838573190789472,
+      1.264118832236842
+    ],
+    [
+      1.2841842105263157,
+      1.4447072368421052
+    ],
+    [
+      1.4848379934210525,
+      1.765753289473684
+    ],
+    [
+      1.8058840460526315,
+      1.8660801809210525
+    ],
+    [
+      1.9463416940789473,
+      2.2071916118421053
+    ],
+    [
+      2.2473223684210524,
+      2.3275838815789474
+    ],
+    [
+      2.407845394736842,
+      2.8091529605263155
+    ],
+    [
+      2.8894144736842104,
+      3.0098067434210525
+    ],
+    [
+      3.0499375,
+      3.3107874177631578
+    ],
+    [
+      3.3709835526315786,
+      3.4512450657894735
+    ],
+    [
+      3.531506578947368,
+      3.6920296052631576
+    ],
+    [
+      3.7722911184210526,
+      3.9528795230263154
+    ],
+    [
+      4.053206414473684,
+      4.233794819078947
+    ],
+    [
+      4.3140563322368415,
+      4.655167763157895
+    ],
+    [
+      4.835756167763158,
+      5.01634457236842
+    ],
+    [
+      5.076540707236842,
+      5.196932976973684
+    ],
+    [
+      5.337390624999999,
+      5.55810978618421
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      11,
+      18
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      23,
+      28
+    ],
+    [
+      29,
+      36
+    ],
+    [
+      37,
+      40
+    ],
+    [
+      41,
+      47
+    ],
+    [
+      48,
+      50
+    ],
+    [
+      51,
+      58
+    ],
+    [
+      59,
+      64
+    ],
+    [
+      65,
+      73
+    ],
+    [
+      74,
+      76
+    ],
+    [
+      77,
+      80
+    ],
+    [
+      81,
+      86
+    ],
+    [
+      87,
+      92
+    ],
+    [
+      93,
+      100
+    ],
+    [
+      101,
+      105
+    ],
+    [
+      106,
+      111
+    ],
+    [
+      112,
+      117
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2029,
+    2059,
+    3039,
+    1996,
+    2317,
+    3667,
+    1998,
+    9209,
+    2000,
+    16114,
+    2037,
+    3247,
+    2000,
+    2025,
+    3499,
+    2304,
+    3667,
+    2046,
+    2037,
+    2586,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.099875,
+  "sample_id": "-wny0OAz3g8$_$3",
+  "video": "-wny0OAz3g8/3.mp4",
+  "original_text": "Which then allowed the white workers and unions to justify their decision to not allow black workers into their union",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

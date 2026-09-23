@@ -1,0 +1,16 @@
+{
+  "splits": {
+    "train": 3395,
+    "valid": 728,
+    "test": 727
+  },
+  "tokenizer_exact_match_checked": 40,
+  "tokenizer_exact_matches": 40,
+  "label_order": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "text_path": "frozen full BERT; corruption before encoding",
+  "source": "contest aligned_50.pkl; no external sentiment data"
+}

@@ -1,0 +1,717 @@
+{
+  "words": [
+    {
+      "word": "Noncompliance",
+      "char_start": 0,
+      "char_end": 13,
+      "start": 0.5606163239074551,
+      "end": 1.5416948907455015,
+      "confidence": 0.9905264377593994
+    },
+    {
+      "word": "can",
+      "char_start": 14,
+      "char_end": 17,
+      "start": 1.6818489717223652,
+      "end": 1.8620470758354757,
+      "confidence": 0.9628905057907104
+    },
+    {
+      "word": "result",
+      "char_start": 18,
+      "char_end": 24,
+      "start": 1.9821791452442161,
+      "end": 2.4627074228791774,
+      "confidence": 0.713748037815094
+    },
+    {
+      "word": "in",
+      "char_start": 25,
+      "char_end": 27,
+      "start": 2.682949550128535,
+      "end": 2.7229935732647816,
+      "confidence": 0.996727466583252
+    },
+    {
+      "word": "legal",
+      "char_start": 28,
+      "char_end": 33,
+      "start": 2.843125642673522,
+      "end": 3.083389781491003,
+      "confidence": 0.9991563558578491
+    },
+    {
+      "word": "liability",
+      "char_start": 34,
+      "char_end": 43,
+      "start": 3.143455816195373,
+      "end": 3.804182197943445,
+      "confidence": 0.9899524450302124
+    },
+    {
+      "word": "to",
+      "char_start": 44,
+      "char_end": 46,
+      "start": 3.9843803020565556,
+      "end": 4.144556394601543,
+      "confidence": 0.9983132481575012
+    },
+    {
+      "word": "you",
+      "char_start": 47,
+      "char_end": 50,
+      "start": 4.264688464010283,
+      "end": 4.464908579691517,
+      "confidence": 0.9442112445831299
+    },
+    {
+      "word": "and",
+      "char_start": 51,
+      "char_end": 54,
+      "start": 5.045546915167096,
+      "end": 5.145656973007712,
+      "confidence": 0.999418318271637
+    },
+    {
+      "word": "to",
+      "char_start": 55,
+      "char_end": 57,
+      "start": 5.245767030848329,
+      "end": 5.325855077120823,
+      "confidence": 0.9996634721755981
+    },
+    {
+      "word": "the",
+      "char_start": 58,
+      "char_end": 61,
+      "start": 5.405943123393317,
+      "end": 5.48603116966581,
+      "confidence": 0.9982268214225769
+    },
+    {
+      "word": "school",
+      "char_start": 62,
+      "char_end": 68,
+      "start": 5.54609720437018,
+      "end": 5.7663393316195375,
+      "confidence": 0.9993171691894531
+    },
+    {
+      "word": "district",
+      "char_start": 69,
+      "char_end": 77,
+      "start": 5.8264053663239075,
+      "end": 6.146757551413883,
+      "confidence": 0.9783851504325867
+    },
+    {
+      "word": "in",
+      "char_start": 78,
+      "char_end": 80,
+      "start": 6.186801574550129,
+      "end": 6.226845597686376,
+      "confidence": 0.994423508644104
+    },
+    {
+      "word": "which",
+      "char_start": 81,
+      "char_end": 86,
+      "start": 6.286911632390746,
+      "end": 6.42706571336761,
+      "confidence": 0.9998944401741028
+    },
+    {
+      "word": "you",
+      "char_start": 87,
+      "char_end": 90,
+      "start": 6.48713174807198,
+      "end": 6.587241805912597,
+      "confidence": 0.995506763458252
+    },
+    {
+      "word": "are",
+      "char_start": 91,
+      "char_end": 94,
+      "start": 6.647307840616967,
+      "end": 6.747417898457584,
+      "confidence": 0.9981368780136108
+    },
+    {
+      "word": "employed",
+      "char_start": 95,
+      "char_end": 103,
+      "start": 6.827505944730078,
+      "end": 7.2479681876606685,
+      "confidence": 0.9590656161308289
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5606163239074551,
+      1.5416948907455015
+    ],
+    [
+      0.5606163239074551,
+      1.5416948907455015
+    ],
+    [
+      0.5606163239074551,
+      1.5416948907455015
+    ],
+    [
+      0.5606163239074551,
+      1.5416948907455015
+    ],
+    [
+      1.6818489717223652,
+      1.8620470758354757
+    ],
+    [
+      1.9821791452442161,
+      2.4627074228791774
+    ],
+    [
+      2.682949550128535,
+      2.7229935732647816
+    ],
+    [
+      2.843125642673522,
+      3.083389781491003
+    ],
+    [
+      3.143455816195373,
+      3.804182197943445
+    ],
+    [
+      3.9843803020565556,
+      4.144556394601543
+    ],
+    [
+      4.264688464010283,
+      4.464908579691517
+    ],
+    [
+      5.045546915167096,
+      5.145656973007712
+    ],
+    [
+      5.245767030848329,
+      5.325855077120823
+    ],
+    [
+      5.405943123393317,
+      5.48603116966581
+    ],
+    [
+      5.54609720437018,
+      5.7663393316195375
+    ],
+    [
+      5.8264053663239075,
+      6.146757551413883
+    ],
+    [
+      6.186801574550129,
+      6.226845597686376
+    ],
+    [
+      6.286911632390746,
+      6.42706571336761
+    ],
+    [
+      6.48713174807198,
+      6.587241805912597
+    ],
+    [
+      6.647307840616967,
+      6.747417898457584
+    ],
+    [
+      6.827505944730078,
+      7.2479681876606685
+    ],
+    [
+      6.827505944730078,
+      7.2479681876606685
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      14,
+      17
+    ],
+    [
+      18,
+      24
+    ],
+    [
+      25,
+      27
+    ],
+    [
+      28,
+      33
+    ],
+    [
+      34,
+      43
+    ],
+    [
+      44,
+      46
+    ],
+    [
+      47,
+      50
+    ],
+    [
+      51,
+      54
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      58,
+      61
+    ],
+    [
+      62,
+      68
+    ],
+    [
+      69,
+      77
+    ],
+    [
+      78,
+      80
+    ],
+    [
+      81,
+      86
+    ],
+    [
+      87,
+      90
+    ],
+    [
+      91,
+      94
+    ],
+    [
+      95,
+      103
+    ],
+    [
+      103,
+      104
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2512,
+    9006,
+    24759,
+    28335,
+    2064,
+    2765,
+    1999,
+    3423,
+    14000,
+    2000,
+    2017,
+    1998,
+    2000,
+    1996,
+    2082,
+    2212,
+    1999,
+    2029,
+    2017,
+    2024,
+    4846,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 7.7885625,
+  "sample_id": "-3nNcZdcdvU$_$5",
+  "video": "-3nNcZdcdvU/5.mp4",
+  "original_text": "Noncompliance can result in legal liability to you and to the school district in which you are employed.",
+  "face_detection_rate": 0.975,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

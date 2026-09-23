@@ -1,0 +1,733 @@
+{
+  "words": [
+    {
+      "word": "He",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.08031229235880398,
+      "end": 0.3814833887043189,
+      "confidence": 0.0010124443797394633
+    },
+    {
+      "word": "explores",
+      "char_start": 3,
+      "char_end": 11,
+      "start": 0.6625764119601328,
+      "end": 1.0039036544850497,
+      "confidence": 0.9722685813903809
+    },
+    {
+      "word": "why",
+      "char_start": 12,
+      "char_end": 15,
+      "start": 1.0440598006644517,
+      "end": 1.1042940199335547,
+      "confidence": 0.9787407517433167
+    },
+    {
+      "word": "Black",
+      "char_start": 16,
+      "char_end": 21,
+      "start": 1.1846063122923587,
+      "end": 1.3452308970099667,
+      "confidence": 0.7946089506149292
+    },
+    {
+      "word": "and",
+      "char_start": 22,
+      "char_end": 25,
+      "start": 1.4054651162790697,
+      "end": 1.4656993355481727,
+      "confidence": 0.7021796703338623
+    },
+    {
+      "word": "White",
+      "char_start": 26,
+      "char_end": 31,
+      "start": 1.4857774086378737,
+      "end": 1.6263239202657807,
+      "confidence": 0.9146282076835632
+    },
+    {
+      "word": "Americans",
+      "char_start": 32,
+      "char_end": 41,
+      "start": 1.6464019933554817,
+      "end": 2.0479634551495014,
+      "confidence": 0.9414887428283691
+    },
+    {
+      "word": "tend",
+      "char_start": 42,
+      "char_end": 46,
+      "start": 2.1081976744186046,
+      "end": 2.2688222591362126,
+      "confidence": 0.9381600618362427
+    },
+    {
+      "word": "to",
+      "char_start": 47,
+      "char_end": 49,
+      "start": 2.3089784053156146,
+      "end": 2.3491345514950166,
+      "confidence": 0.9698492288589478
+    },
+    {
+      "word": "have",
+      "char_start": 50,
+      "char_end": 54,
+      "start": 2.4093687707641194,
+      "end": 2.5298372093023254,
+      "confidence": 0.9993739724159241
+    },
+    {
+      "word": "such",
+      "char_start": 55,
+      "char_end": 59,
+      "start": 2.590071428571428,
+      "end": 2.7306179401993353,
+      "confidence": 0.998908281326294
+    },
+    {
+      "word": "different",
+      "char_start": 60,
+      "char_end": 69,
+      "start": 2.8510863787375413,
+      "end": 3.1321794019933553,
+      "confidence": 0.9468320608139038
+    },
+    {
+      "word": "outcomes",
+      "char_start": 70,
+      "char_end": 78,
+      "start": 3.23256976744186,
+      "end": 3.6542093023255813,
+      "confidence": 0.9897882342338562
+    },
+    {
+      "word": "in",
+      "char_start": 79,
+      "char_end": 81,
+      "start": 3.714443521594684,
+      "end": 3.754599667774086,
+      "confidence": 0.9491509795188904
+    },
+    {
+      "word": "terms",
+      "char_start": 82,
+      "char_end": 87,
+      "start": 3.794755813953488,
+      "end": 3.975458471760797,
+      "confidence": 0.9944972395896912
+    },
+    {
+      "word": "of",
+      "char_start": 88,
+      "char_end": 90,
+      "start": 4.015614617940199,
+      "end": 4.055770764119601,
+      "confidence": 0.99662846326828
+    },
+    {
+      "word": "income",
+      "char_start": 91,
+      "char_end": 97,
+      "start": 4.176239202657807,
+      "end": 4.497488372093023,
+      "confidence": 0.9997643828392029
+    },
+    {
+      "word": "education",
+      "char_start": 99,
+      "char_end": 108,
+      "start": 4.658112956810631,
+      "end": 5.1199086378737535,
+      "confidence": 0.9867862462997437
+    },
+    {
+      "word": "and",
+      "char_start": 110,
+      "char_end": 113,
+      "start": 5.220299003322259,
+      "end": 5.2805332225913615,
+      "confidence": 0.6604312062263489
+    },
+    {
+      "word": "more",
+      "char_start": 114,
+      "char_end": 118,
+      "start": 5.320689368770764,
+      "end": 5.882875415282392,
+      "confidence": 0.8384509086608887
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.08031229235880398,
+      0.3814833887043189
+    ],
+    [
+      0.6625764119601328,
+      1.0039036544850497
+    ],
+    [
+      1.0440598006644517,
+      1.1042940199335547
+    ],
+    [
+      1.1846063122923587,
+      1.3452308970099667
+    ],
+    [
+      1.4054651162790697,
+      1.4656993355481727
+    ],
+    [
+      1.4857774086378737,
+      1.6263239202657807
+    ],
+    [
+      1.6464019933554817,
+      2.0479634551495014
+    ],
+    [
+      2.1081976744186046,
+      2.2688222591362126
+    ],
+    [
+      2.3089784053156146,
+      2.3491345514950166
+    ],
+    [
+      2.4093687707641194,
+      2.5298372093023254
+    ],
+    [
+      2.590071428571428,
+      2.7306179401993353
+    ],
+    [
+      2.8510863787375413,
+      3.1321794019933553
+    ],
+    [
+      3.23256976744186,
+      3.6542093023255813
+    ],
+    [
+      3.714443521594684,
+      3.754599667774086
+    ],
+    [
+      3.794755813953488,
+      3.975458471760797
+    ],
+    [
+      4.015614617940199,
+      4.055770764119601
+    ],
+    [
+      4.176239202657807,
+      4.497488372093023
+    ],
+    [
+      4.658112956810631,
+      5.1199086378737535
+    ],
+    [
+      4.658112956810631,
+      5.1199086378737535
+    ],
+    [
+      5.220299003322259,
+      5.2805332225913615
+    ],
+    [
+      5.220299003322259,
+      5.2805332225913615
+    ],
+    [
+      5.320689368770764,
+      5.882875415282392
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      22,
+      25
+    ],
+    [
+      26,
+      31
+    ],
+    [
+      32,
+      41
+    ],
+    [
+      42,
+      46
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      59
+    ],
+    [
+      60,
+      69
+    ],
+    [
+      70,
+      78
+    ],
+    [
+      79,
+      81
+    ],
+    [
+      82,
+      87
+    ],
+    [
+      88,
+      90
+    ],
+    [
+      91,
+      97
+    ],
+    [
+      97,
+      98
+    ],
+    [
+      99,
+      108
+    ],
+    [
+      108,
+      109
+    ],
+    [
+      110,
+      113
+    ],
+    [
+      114,
+      118
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2002,
+    15102,
+    2339,
+    2304,
+    1998,
+    2317,
+    4841,
+    7166,
+    2000,
+    2031,
+    2107,
+    2367,
+    13105,
+    1999,
+    3408,
+    1997,
+    3318,
+    1010,
+    2495,
+    1010,
+    1998,
+    2062,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.0435,
+  "sample_id": "-wny0OAz3g8$_$9",
+  "video": "-wny0OAz3g8/9.mp4",
+  "original_text": "He explores why Black and White Americans tend to have such different outcomes in terms of income, education, and more",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

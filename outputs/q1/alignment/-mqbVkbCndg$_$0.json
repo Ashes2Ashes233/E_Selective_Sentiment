@@ -1,0 +1,685 @@
+{
+  "words": [
+    {
+      "word": "How",
+      "char_start": 0,
+      "char_end": 3,
+      "start": 0.16013793103448276,
+      "end": 0.34029310344827585,
+      "confidence": 0.9955903887748718
+    },
+    {
+      "word": "at",
+      "char_start": 5,
+      "char_end": 7,
+      "start": 0.8807586206896552,
+      "end": 0.9207931034482759,
+      "confidence": 0.9992640018463135
+    },
+    {
+      "word": "a",
+      "char_start": 8,
+      "char_end": 9,
+      "start": 0.980844827586207,
+      "end": 1.0008620689655172,
+      "confidence": 0.9925445318222046
+    },
+    {
+      "word": "particular",
+      "char_start": 10,
+      "char_end": 20,
+      "start": 1.0609137931034482,
+      "end": 1.561344827586207,
+      "confidence": 0.993847668170929
+    },
+    {
+      "word": "moment",
+      "char_start": 21,
+      "char_end": 27,
+      "start": 1.6614310344827588,
+      "end": 2.0017241379310344,
+      "confidence": 0.9464475512504578
+    },
+    {
+      "word": "in",
+      "char_start": 28,
+      "char_end": 30,
+      "start": 2.081793103448276,
+      "end": 2.141844827586207,
+      "confidence": 0.8748931884765625
+    },
+    {
+      "word": "time",
+      "char_start": 31,
+      "char_end": 35,
+      "start": 2.2419310344827585,
+      "end": 2.5221724137931036,
+      "confidence": 0.9999589920043945
+    },
+    {
+      "word": "our",
+      "char_start": 36,
+      "char_end": 39,
+      "start": 2.8024137931034483,
+      "end": 2.942534482758621,
+      "confidence": 0.9975755214691162
+    },
+    {
+      "word": "moment",
+      "char_start": 40,
+      "char_end": 46,
+      "start": 3.062637931034483,
+      "end": 3.4029310344827586,
+      "confidence": 0.9798135757446289
+    },
+    {
+      "word": "in",
+      "char_start": 47,
+      "char_end": 49,
+      "start": 3.5230344827586206,
+      "end": 3.5630689655172416,
+      "confidence": 0.9996205568313599
+    },
+    {
+      "word": "time",
+      "char_start": 50,
+      "char_end": 54,
+      "start": 3.6831724137931037,
+      "end": 3.9634137931034483,
+      "confidence": 0.9999603629112244
+    },
+    {
+      "word": "are",
+      "char_start": 55,
+      "char_end": 58,
+      "start": 4.543913793103449,
+      "end": 4.62398275862069,
+      "confidence": 0.9995694756507874
+    },
+    {
+      "word": "they",
+      "char_start": 59,
+      "char_end": 63,
+      "start": 4.704051724137931,
+      "end": 4.884206896551724,
+      "confidence": 0.9982242584228516
+    },
+    {
+      "word": "limited",
+      "char_start": 64,
+      "char_end": 71,
+      "start": 5.424672413793104,
+      "end": 5.845034482758621,
+      "confidence": 0.9237760901451111
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.16013793103448276,
+      0.34029310344827585
+    ],
+    [
+      0.8807586206896552,
+      0.9207931034482759
+    ],
+    [
+      0.8807586206896552,
+      0.9207931034482759
+    ],
+    [
+      0.980844827586207,
+      1.0008620689655172
+    ],
+    [
+      1.0609137931034482,
+      1.561344827586207
+    ],
+    [
+      1.6614310344827588,
+      2.0017241379310344
+    ],
+    [
+      2.081793103448276,
+      2.141844827586207
+    ],
+    [
+      2.2419310344827585,
+      2.5221724137931036
+    ],
+    [
+      2.8024137931034483,
+      2.942534482758621
+    ],
+    [
+      2.8024137931034483,
+      2.942534482758621
+    ],
+    [
+      3.062637931034483,
+      3.4029310344827586
+    ],
+    [
+      3.5230344827586206,
+      3.5630689655172416
+    ],
+    [
+      3.6831724137931037,
+      3.9634137931034483
+    ],
+    [
+      4.543913793103449,
+      4.62398275862069
+    ],
+    [
+      4.543913793103449,
+      4.62398275862069
+    ],
+    [
+      4.704051724137931,
+      4.884206896551724
+    ],
+    [
+      5.424672413793104,
+      5.845034482758621
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      20
+    ],
+    [
+      21,
+      27
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      31,
+      35
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      36,
+      39
+    ],
+    [
+      40,
+      46
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      54,
+      55
+    ],
+    [
+      55,
+      58
+    ],
+    [
+      59,
+      63
+    ],
+    [
+      64,
+      71
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2129,
+    1010,
+    2012,
+    1037,
+    3327,
+    2617,
+    1999,
+    2051,
+    1517,
+    2256,
+    2617,
+    1999,
+    2051,
+    1517,
+    2024,
+    2027,
+    3132,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.3855,
+  "sample_id": "-mqbVkbCndg$_$0",
+  "video": "-mqbVkbCndg/0.mp4",
+  "original_text": "How, at a particular moment in time—our moment in time—are they limited",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

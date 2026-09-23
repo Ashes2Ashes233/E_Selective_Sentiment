@@ -1,0 +1,717 @@
+{
+  "words": [
+    {
+      "word": "So",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.6618093188622755,
+      "end": 1.804934505988024,
+      "confidence": 0.0005548829212784767
+    },
+    {
+      "word": "we",
+      "char_start": 3,
+      "char_end": 5,
+      "start": 1.9453183008982038,
+      "end": 2.0455924401197607,
+      "confidence": 0.0005946896853856742
+    },
+    {
+      "word": "coordinate",
+      "char_start": 6,
+      "char_end": 16,
+      "start": 2.1458665793413174,
+      "end": 2.4065793413173653,
+      "confidence": 0.002994977403432131
+    },
+    {
+      "word": "with",
+      "char_start": 17,
+      "char_end": 21,
+      "start": 2.4266341691616766,
+      "end": 2.5068534805389224,
+      "confidence": 0.005110988859087229
+    },
+    {
+      "word": "all",
+      "char_start": 22,
+      "char_end": 25,
+      "start": 2.5269083083832338,
+      "end": 2.607127619760479,
+      "confidence": 0.001747126691043377
+    },
+    {
+      "word": "the",
+      "char_start": 26,
+      "char_end": 29,
+      "start": 2.647237275449102,
+      "end": 2.747511414670659,
+      "confidence": 0.048405688256025314
+    },
+    {
+      "word": "proper",
+      "char_start": 30,
+      "char_end": 36,
+      "start": 2.7675662425149703,
+      "end": 2.9079500374251497,
+      "confidence": 0.0071336268447339535
+    },
+    {
+      "word": "technical",
+      "char_start": 37,
+      "char_end": 46,
+      "start": 3.028279004491018,
+      "end": 3.7903624625748504,
+      "confidence": 0.1112985759973526
+    },
+    {
+      "word": "fields",
+      "char_start": 47,
+      "char_end": 53,
+      "start": 4.111239708083833,
+      "end": 4.291733158682635,
+      "confidence": 0.0069430433213710785
+    },
+    {
+      "word": "to",
+      "char_start": 54,
+      "char_end": 56,
+      "start": 4.3318428143712575,
+      "end": 4.37195247005988,
+      "confidence": 0.4977636933326721
+    },
+    {
+      "word": "get",
+      "char_start": 57,
+      "char_end": 60,
+      "start": 4.3920072979041915,
+      "end": 4.452171781437126,
+      "confidence": 0.0007601128309033811
+    },
+    {
+      "word": "ready",
+      "char_start": 61,
+      "char_end": 66,
+      "start": 4.492281437125749,
+      "end": 4.672774887724551,
+      "confidence": 0.24018976092338562
+    },
+    {
+      "word": "for",
+      "char_start": 67,
+      "char_end": 70,
+      "start": 4.6928297155688625,
+      "end": 4.7529941991017965,
+      "confidence": 0.008477640338242054
+    },
+    {
+      "word": "the",
+      "char_start": 71,
+      "char_end": 74,
+      "start": 4.773049026946108,
+      "end": 4.853268338323353,
+      "confidence": 0.002175800735130906
+    },
+    {
+      "word": "instrument",
+      "char_start": 75,
+      "char_end": 85,
+      "start": 4.893377994011976,
+      "end": 5.535132485029941,
+      "confidence": 0.5184245705604553
+    },
+    {
+      "word": "to",
+      "char_start": 86,
+      "char_end": 88,
+      "start": 6.196941803892216,
+      "end": 6.237051459580838,
+      "confidence": 0.499113529920578
+    },
+    {
+      "word": "arrive",
+      "char_start": 89,
+      "char_end": 95,
+      "start": 6.25710628742515,
+      "end": 6.517819049401198,
+      "confidence": 0.3312320113182068
+    },
+    {
+      "word": "here",
+      "char_start": 96,
+      "char_end": 100,
+      "start": 6.598038360778443,
+      "end": 6.6983125,
+      "confidence": 0.025650108233094215
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.6618093188622755,
+      1.804934505988024
+    ],
+    [
+      1.9453183008982038,
+      2.0455924401197607
+    ],
+    [
+      2.1458665793413174,
+      2.4065793413173653
+    ],
+    [
+      2.4266341691616766,
+      2.5068534805389224
+    ],
+    [
+      2.5269083083832338,
+      2.607127619760479
+    ],
+    [
+      2.647237275449102,
+      2.747511414670659
+    ],
+    [
+      2.7675662425149703,
+      2.9079500374251497
+    ],
+    [
+      3.028279004491018,
+      3.7903624625748504
+    ],
+    [
+      4.111239708083833,
+      4.291733158682635
+    ],
+    [
+      4.3318428143712575,
+      4.37195247005988
+    ],
+    [
+      4.3920072979041915,
+      4.452171781437126
+    ],
+    [
+      4.492281437125749,
+      4.672774887724551
+    ],
+    [
+      4.6928297155688625,
+      4.7529941991017965
+    ],
+    [
+      4.773049026946108,
+      4.853268338323353
+    ],
+    [
+      4.893377994011976,
+      5.535132485029941
+    ],
+    [
+      6.196941803892216,
+      6.237051459580838
+    ],
+    [
+      6.25710628742515,
+      6.517819049401198
+    ],
+    [
+      6.598038360778443,
+      6.6983125
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      16
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      22,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      30,
+      36
+    ],
+    [
+      37,
+      46
+    ],
+    [
+      47,
+      53
+    ],
+    [
+      54,
+      56
+    ],
+    [
+      57,
+      60
+    ],
+    [
+      61,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      74
+    ],
+    [
+      75,
+      85
+    ],
+    [
+      86,
+      88
+    ],
+    [
+      89,
+      95
+    ],
+    [
+      96,
+      100
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2061,
+    2057,
+    13530,
+    2007,
+    2035,
+    1996,
+    5372,
+    4087,
+    4249,
+    2000,
+    2131,
+    3201,
+    2005,
+    1996,
+    6602,
+    2000,
+    7180,
+    2182,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.6983125,
+  "sample_id": "-NFrJFQijFE$_$2",
+  "video": "-NFrJFQijFE/2.mp4",
+  "original_text": "So we coordinate with all the proper technical fields to get ready for the instrument to arrive here",
+  "face_detection_rate": 0.23529411764705882,
+  "fps": 25.0,
+  "tokenization_truncated": false
+}

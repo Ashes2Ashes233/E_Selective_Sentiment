@@ -1,0 +1,29 @@
+PS C:\windows\System32> cd D:\数模国赛\E题\selective_sentiment
+PS D:\数模国赛\E题\selective_sentiment> .\.venv\Scripts\python.exe train.py `
+>>   --epochs 60 `
+>>   --patience 12 `
+>>   --batch-size 32 `
+>>   --lr 0.0003 `
+>>   --gate soft `
+>>   --output outputs_long_soft `
+>>   --seed 2026
+device=cuda, train=3395, task_parameters=428,363
+{"epoch": 1, "loss": 1.2184075908562573, "validation_mae": 0.6433956623077393, "validation_macro_f1": 0.42349016865145894, "missing_mae": 0.6582598686218262, "criterion": 0.822671212644128, "seconds": 12.89185881614685}
+{"epoch": 2, "loss": 1.0427217659086472, "validation_mae": 0.6758955717086792, "validation_macro_f1": 0.5219536639072235, "missing_mae": 0.6520222425460815, "criterion": 0.8059607104118756, "seconds": 11.687500953674316}
+{"epoch": 3, "loss": 0.9811518636473149, "validation_mae": 0.6046909093856812, "validation_macro_f1": 0.5475101695533605, "missing_mae": 0.6174378395080566, "criterion": 0.745892172960771, "seconds": 12.087313175201416}
+{"epoch": 4, "loss": 0.9226636073375134, "validation_mae": 0.6153257489204407, "validation_macro_f1": 0.5910407169099869, "missing_mae": 0.6240026950836182, "criterion": 0.7456141535652001, "seconds": 11.529060363769531}
+{"epoch": 5, "loss": 0.8671759278679456, "validation_mae": 0.6109917163848877, "validation_macro_f1": 0.5976175671114111, "missing_mae": 0.6271508932113647, "criterion": 0.7444104534347468, "seconds": 11.788946390151978}
+{"epoch": 6, "loss": 0.8221957352796956, "validation_mae": 0.6089950203895569, "validation_macro_f1": 0.5993549492697134, "missing_mae": 0.6226546764373779, "criterion": 0.7401549616350569, "seconds": 12.2946937084198}
+{"epoch": 7, "loss": 0.7684823294626947, "validation_mae": 0.6516013741493225, "validation_macro_f1": 0.5723999709623087, "missing_mae": 0.6607736945152283, "criterion": 0.7883796417895579, "seconds": 12.189709424972534}
+{"epoch": 8, "loss": 0.7213227702170303, "validation_mae": 0.6472022533416748, "validation_macro_f1": 0.58434240800494, "missing_mae": 0.6470465064048767, "criterion": 0.7752150988596878, "seconds": 12.463258743286133}
+{"epoch": 9, "loss": 0.6765707942277237, "validation_mae": 0.6417143940925598, "validation_macro_f1": 0.5507013912223707, "missing_mae": 0.6454415917396545, "criterion": 0.7776668901345931, "seconds": 12.042668104171753}
+{"epoch": 10, "loss": 0.6255295581951057, "validation_mae": 0.6322174668312073, "validation_macro_f1": 0.5735830839126008, "missing_mae": 0.6484454274177551, "criterion": 0.7742645518807204, "seconds": 12.273885726928711}
+{"epoch": 11, "loss": 0.6065435648140044, "validation_mae": 0.6578680872917175, "validation_macro_f1": 0.5458327357714091, "missing_mae": 0.6512654423713684, "criterion": 0.7920114794485917, "seconds": 14.860289812088013}
+{"epoch": 12, "loss": 0.5429859915608335, "validation_mae": 0.6274768114089966, "validation_macro_f1": 0.5971456952299864, "missing_mae": 0.6423251628875732, "criterion": 0.7618356497005412, "seconds": 14.293283224105835}
+{"epoch": 13, "loss": 0.5112160915654257, "validation_mae": 0.6692560911178589, "validation_macro_f1": 0.5675611291352171, "missing_mae": 0.6620491743087769, "criterion": 0.8008168430331546, "seconds": 14.328349828720093}
+{"epoch": 14, "loss": 0.48627351441685335, "validation_mae": 0.6381579637527466, "validation_macro_f1": 0.5851448867868739, "missing_mae": 0.6474246382713318, "criterion": 0.7751451632369922, "seconds": 14.574660062789917}
+{"epoch": 15, "loss": 0.47254856199860046, "validation_mae": 0.6264486312866211, "validation_macro_f1": 0.5573823386823489, "missing_mae": 0.6324180364608765, "criterion": 0.7680405253103895, "seconds": 14.518126487731934}
+{"epoch": 16, "loss": 0.43613378204547953, "validation_mae": 0.6365642547607422, "validation_macro_f1": 0.5699206455297792, "missing_mae": 0.645139217376709, "criterion": 0.7774668320994673, "seconds": 15.332982301712036}
+{"epoch": 17, "loss": 0.41837778129177344, "validation_mae": 0.6704041957855225, "validation_macro_f1": 0.5636026776074282, "missing_mae": 0.6631258130073547, "criterion": 0.8015606938812678, "seconds": 14.553605318069458}
+{"epoch": 18, "loss": 0.40236346166860726, "validation_mae": 0.6801987886428833, "validation_macro_f1": 0.5672609421887643, "missing_mae": 0.679090142250061, "criterion": 0.8164011696249251, "seconds": 14.237254619598389}
+{"valid": {"n": 728, "mae": 0.6089950203895569, "pearson": 0.6372496119600367, "accuracy": 0.614010989010989, "macro_f1": 0.5993549492697134, "weighted_f1": 0.619816859523397, "class_f1": [0.6494845360824743, 0.45965770171149145, 0.6889226100151745], "confusion_matrix": [[126, 48, 32], [28, 94, 62], [28, 83, 227]], "mean_gate_per_valid_position": [0.6136971116065979, 0.16221410036087036, 0.2220543473958969]}, "test": {"n": 727, "mae": 0.6712213158607483, "pearson": 0.64629048707083, "accuracy": 0.657496561210454, "macro_f1": 0.6221375345457867, "weighted_f1": 0.6609356423410907, "class_f1": [0.6915422885572139, 0.4311377245508982, 0.7437325905292479], "confusion_matrix": [[139, 37, 31], [28, 72, 58], [28, 67, 267]], "mean_gate_per_valid_position": [0.6323465704917908, 0.1737774759531021, 0.2555252015590668]}, "inference_gate_bypass": {"n": 728, "mae": 0.8169832229614258, "pearson": 0.55433139515812, "accuracy": 0.5947802197802198, "macro_f1": 0.5627494007448726, "weighted_f1": 0.5908774075610275, "class_f1": [0.5935162094763092, 0.4034090909090909, 0.6913229018492176], "confusion_matrix": [[119, 39, 48], [39, 71, 74], [37, 58, 243]], "mean_gate_per_valid_position": [1.0, 0.9986836314201355, 0.939259946346283]}, "ablation_note": "Inference intervention only; not an independently retrained fixed-fusion baseline.", "best_epoch": 6, "runtime": {"python": "3.12.14", "torch": "2.7.1+cu128", "device": "cuda"}}

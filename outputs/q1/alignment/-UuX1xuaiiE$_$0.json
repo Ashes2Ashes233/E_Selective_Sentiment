@@ -1,0 +1,645 @@
+{
+  "words": [
+    {
+      "word": "it's",
+      "char_start": 1,
+      "char_end": 5,
+      "start": 0.04017837078651685,
+      "end": 0.18080266853932583,
+      "confidence": 2.8157133783679456e-05
+    },
+    {
+      "word": "amazing",
+      "char_start": 6,
+      "char_end": 13,
+      "start": 0.30133778089887636,
+      "end": 0.7232106741573033,
+      "confidence": 0.9974033832550049
+    },
+    {
+      "word": "to",
+      "char_start": 14,
+      "char_end": 16,
+      "start": 0.8839241573033707,
+      "end": 0.9642808988764044,
+      "confidence": 0.9978199005126953
+    },
+    {
+      "word": "see",
+      "char_start": 17,
+      "char_end": 20,
+      "start": 1.0647268258426965,
+      "end": 1.2455294943820223,
+      "confidence": 0.999317467212677
+    },
+    {
+      "word": "their",
+      "char_start": 21,
+      "char_end": 26,
+      "start": 1.325886235955056,
+      "end": 1.4865997191011235,
+      "confidence": 0.9940093159675598
+    },
+    {
+      "word": "enthusiasm",
+      "char_start": 27,
+      "char_end": 37,
+      "start": 1.5468672752808987,
+      "end": 2.2499887640449434,
+      "confidence": 0.9684743881225586
+    },
+    {
+      "word": "and",
+      "char_start": 38,
+      "char_end": 41,
+      "start": 2.310256320224719,
+      "end": 2.3906130617977523,
+      "confidence": 0.6113996505737305
+    },
+    {
+      "word": "their",
+      "char_start": 42,
+      "char_end": 47,
+      "start": 2.410702247191011,
+      "end": 2.55132654494382,
+      "confidence": 0.9869091510772705
+    },
+    {
+      "word": "passion",
+      "char_start": 48,
+      "char_end": 55,
+      "start": 2.591504915730337,
+      "end": 2.993288623595505,
+      "confidence": 0.9552063345909119
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.04017837078651685,
+      0.18080266853932583
+    ],
+    [
+      0.04017837078651685,
+      0.18080266853932583
+    ],
+    [
+      0.04017837078651685,
+      0.18080266853932583
+    ],
+    [
+      0.04017837078651685,
+      0.18080266853932583
+    ],
+    [
+      0.30133778089887636,
+      0.7232106741573033
+    ],
+    [
+      0.8839241573033707,
+      0.9642808988764044
+    ],
+    [
+      1.0647268258426965,
+      1.2455294943820223
+    ],
+    [
+      1.325886235955056,
+      1.4865997191011235
+    ],
+    [
+      1.5468672752808987,
+      2.2499887640449434
+    ],
+    [
+      2.310256320224719,
+      2.3906130617977523
+    ],
+    [
+      2.410702247191011,
+      2.55132654494382
+    ],
+    [
+      2.591504915730337,
+      2.993288623595505
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      13
+    ],
+    [
+      14,
+      16
+    ],
+    [
+      17,
+      20
+    ],
+    [
+      21,
+      26
+    ],
+    [
+      27,
+      37
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      42,
+      47
+    ],
+    [
+      48,
+      55
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1034,
+    2009,
+    1005,
+    1055,
+    6429,
+    2000,
+    2156,
+    2037,
+    12024,
+    1998,
+    2037,
+    6896,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 3.575875,
+  "sample_id": "-UuX1xuaiiE$_$0",
+  "video": "-UuX1xuaiiE/0.mp4",
+  "original_text": "^it's amazing to see their enthusiasm and their passion",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

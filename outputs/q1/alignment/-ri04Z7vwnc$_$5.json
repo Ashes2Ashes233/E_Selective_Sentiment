@@ -1,0 +1,637 @@
+{
+  "words": [
+    {
+      "word": "So",
+      "char_start": 2,
+      "char_end": 4,
+      "start": 0.34196345029239766,
+      "end": 0.6839269005847953,
+      "confidence": 0.4999920427799225
+    },
+    {
+      "word": "I",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 0.7845043859649123,
+      "end": 0.8046198830409357,
+      "confidence": 0.0003561021585483104
+    },
+    {
+      "word": "think",
+      "char_start": 7,
+      "char_end": 12,
+      "start": 0.8850818713450292,
+      "end": 1.0661213450292397,
+      "confidence": 6.186947757669259e-06
+    },
+    {
+      "word": "it's",
+      "char_start": 13,
+      "char_end": 17,
+      "start": 1.12646783625731,
+      "end": 1.287391812865497,
+      "confidence": 0.0006149171967990696
+    },
+    {
+      "word": "important",
+      "char_start": 18,
+      "char_end": 27,
+      "start": 1.3276228070175438,
+      "end": 1.7299327485380118,
+      "confidence": 0.38745468854904175
+    },
+    {
+      "word": "to",
+      "char_start": 28,
+      "char_end": 30,
+      "start": 2.31328216374269,
+      "end": 2.353513157894737,
+      "confidence": 0.4493015706539154
+    },
+    {
+      "word": "discuss",
+      "char_start": 31,
+      "char_end": 38,
+      "start": 2.5345526315789475,
+      "end": 2.8966315789473684,
+      "confidence": 0.1415729522705078
+    },
+    {
+      "word": "finances",
+      "char_start": 39,
+      "char_end": 47,
+      "start": 2.916747076023392,
+      "end": 3.339172514619883,
+      "confidence": 0.025675753131508827
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.34196345029239766,
+      0.6839269005847953
+    ],
+    [
+      0.34196345029239766,
+      0.6839269005847953
+    ],
+    [
+      0.7845043859649123,
+      0.8046198830409357
+    ],
+    [
+      0.8850818713450292,
+      1.0661213450292397
+    ],
+    [
+      1.12646783625731,
+      1.287391812865497
+    ],
+    [
+      1.12646783625731,
+      1.287391812865497
+    ],
+    [
+      1.12646783625731,
+      1.287391812865497
+    ],
+    [
+      1.3276228070175438,
+      1.7299327485380118
+    ],
+    [
+      2.31328216374269,
+      2.353513157894737
+    ],
+    [
+      2.5345526315789475,
+      2.8966315789473684
+    ],
+    [
+      2.916747076023392,
+      3.339172514619883
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      27
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      31,
+      38
+    ],
+    [
+      39,
+      47
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1000,
+    2061,
+    1045,
+    2228,
+    2009,
+    1005,
+    1055,
+    2590,
+    2000,
+    6848,
+    16156,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 3.43975,
+  "sample_id": "-ri04Z7vwnc$_$5",
+  "video": "-ri04Z7vwnc/5.mp4",
+  "original_text": "\" So I think it's important to discuss finances",
+  "face_detection_rate": 1.0,
+  "fps": 23.976046466253432,
+  "tokenization_truncated": false
+}

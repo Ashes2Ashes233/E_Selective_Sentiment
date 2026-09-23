@@ -1,0 +1,677 @@
+{
+  "words": [
+    {
+      "word": "Discussion",
+      "char_start": 0,
+      "char_end": 10,
+      "start": 0.3006081882911392,
+      "end": 0.6212569224683544,
+      "confidence": 0.09955766797065735
+    },
+    {
+      "word": "how",
+      "char_start": 12,
+      "char_end": 15,
+      "start": 0.6813785601265823,
+      "end": 0.801621835443038,
+      "confidence": 0.3331979811191559
+    },
+    {
+      "word": "to",
+      "char_start": 16,
+      "char_end": 18,
+      "start": 0.8617434731012658,
+      "end": 0.9218651107594936,
+      "confidence": 0.1024056077003479
+    },
+    {
+      "word": "discuss",
+      "char_start": 19,
+      "char_end": 26,
+      "start": 0.9419056566455696,
+      "end": 1.2425138449367088,
+      "confidence": 0.37454134225845337
+    },
+    {
+      "word": "ideas",
+      "char_start": 27,
+      "char_end": 32,
+      "start": 1.603243670886076,
+      "end": 1.7234869462025315,
+      "confidence": 0.18851090967655182
+    },
+    {
+      "word": "and",
+      "char_start": 33,
+      "char_end": 36,
+      "start": 1.7635680379746834,
+      "end": 1.8437302215189872,
+      "confidence": 0.014190406538546085
+    },
+    {
+      "word": "opinions",
+      "char_start": 37,
+      "char_end": 45,
+      "start": 1.8637707674050632,
+      "end": 2.2044600474683542,
+      "confidence": 0.47677916288375854
+    },
+    {
+      "word": "more",
+      "char_start": 46,
+      "char_end": 50,
+      "start": 3.887865901898734,
+      "end": 4.068230814873417,
+      "confidence": 0.3453899621963501
+    },
+    {
+      "word": "effectively",
+      "char_start": 51,
+      "char_end": 62,
+      "start": 4.1283524525316455,
+      "end": 4.54920391613924,
+      "confidence": 0.24111314117908478
+    },
+    {
+      "word": "than",
+      "char_start": 63,
+      "char_end": 67,
+      "start": 4.629366099683544,
+      "end": 4.889893196202531,
+      "confidence": 0.24993941187858582
+    },
+    {
+      "word": "a",
+      "char_start": 68,
+      "char_end": 69,
+      "start": 5.751636669303798,
+      "end": 5.771677215189873,
+      "confidence": 0.9753132462501526
+    },
+    {
+      "word": "native",
+      "char_start": 70,
+      "char_end": 76,
+      "start": 5.891920490506329,
+      "end": 6.032204311708861,
+      "confidence": 0.1665104776620865
+    },
+    {
+      "word": "speaker",
+      "char_start": 77,
+      "char_end": 84,
+      "start": 6.052244857594936,
+      "end": 6.3328125,
+      "confidence": 0.14430749416351318
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.3006081882911392,
+      0.6212569224683544
+    ],
+    [
+      0.6813785601265823,
+      0.801621835443038
+    ],
+    [
+      0.6813785601265823,
+      0.801621835443038
+    ],
+    [
+      0.8617434731012658,
+      0.9218651107594936
+    ],
+    [
+      0.9419056566455696,
+      1.2425138449367088
+    ],
+    [
+      1.603243670886076,
+      1.7234869462025315
+    ],
+    [
+      1.7635680379746834,
+      1.8437302215189872
+    ],
+    [
+      1.8637707674050632,
+      2.2044600474683542
+    ],
+    [
+      3.887865901898734,
+      4.068230814873417
+    ],
+    [
+      4.1283524525316455,
+      4.54920391613924
+    ],
+    [
+      4.629366099683544,
+      4.889893196202531
+    ],
+    [
+      5.751636669303798,
+      5.771677215189873
+    ],
+    [
+      5.891920490506329,
+      6.032204311708861
+    ],
+    [
+      6.052244857594936,
+      6.3328125
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      19,
+      26
+    ],
+    [
+      27,
+      32
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      37,
+      45
+    ],
+    [
+      46,
+      50
+    ],
+    [
+      51,
+      62
+    ],
+    [
+      63,
+      67
+    ],
+    [
+      68,
+      69
+    ],
+    [
+      70,
+      76
+    ],
+    [
+      77,
+      84
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    6594,
+    1010,
+    2129,
+    2000,
+    6848,
+    4784,
+    1998,
+    10740,
+    2062,
+    6464,
+    2084,
+    1037,
+    3128,
+    5882,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.3328125,
+  "sample_id": "-hnBHBN8p5A$_$6",
+  "video": "-hnBHBN8p5A/6.mp4",
+  "original_text": "Discussion, how to discuss ideas and opinions more effectively than a native speaker",
+  "face_detection_rate": 0.41935483870967744,
+  "fps": 23.976035631539084,
+  "tokenization_truncated": false
+}

@@ -1,0 +1,661 @@
+{
+  "words": [
+    {
+      "word": "What",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 0.5231037500000001,
+      "end": 0.6438200000000001,
+      "confidence": 0.9873296022415161
+    },
+    {
+      "word": "are",
+      "char_start": 5,
+      "char_end": 8,
+      "start": 0.6639393750000001,
+      "end": 0.7444168750000001,
+      "confidence": 0.9779967665672302
+    },
+    {
+      "word": "you",
+      "char_start": 9,
+      "char_end": 12,
+      "start": 0.7846556250000001,
+      "end": 0.8651331250000001,
+      "confidence": 0.9919173121452332
+    },
+    {
+      "word": "doing",
+      "char_start": 13,
+      "char_end": 18,
+      "start": 0.905371875,
+      "end": 1.1266850000000002,
+      "confidence": 0.9611745476722717
+    },
+    {
+      "word": "that's",
+      "char_start": 19,
+      "char_end": 25,
+      "start": 1.1870431250000002,
+      "end": 1.3681175,
+      "confidence": 0.9230615496635437
+    },
+    {
+      "word": "different",
+      "char_start": 26,
+      "char_end": 35,
+      "start": 1.4083562500000002,
+      "end": 1.7906243750000002,
+      "confidence": 0.9844325184822083
+    },
+    {
+      "word": "They",
+      "char_start": 38,
+      "char_end": 42,
+      "start": 2.3539668750000002,
+      "end": 2.45456375,
+      "confidence": 0.9995808601379395
+    },
+    {
+      "word": "always",
+      "char_start": 43,
+      "char_end": 49,
+      "start": 2.514921875,
+      "end": 2.77647375,
+      "confidence": 0.9047015309333801
+    },
+    {
+      "word": "want",
+      "char_start": 50,
+      "char_end": 54,
+      "start": 2.8167125000000004,
+      "end": 2.997786875,
+      "confidence": 0.9869670867919922
+    },
+    {
+      "word": "an",
+      "char_start": 55,
+      "char_end": 57,
+      "start": 3.0782643750000003,
+      "end": 3.118503125,
+      "confidence": 0.985314130783081
+    },
+    {
+      "word": "answer",
+      "char_start": 58,
+      "char_end": 64,
+      "start": 3.2191,
+      "end": 3.6013681250000005,
+      "confidence": 0.5642774701118469
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5231037500000001,
+      0.6438200000000001
+    ],
+    [
+      0.6639393750000001,
+      0.7444168750000001
+    ],
+    [
+      0.7846556250000001,
+      0.8651331250000001
+    ],
+    [
+      0.905371875,
+      1.1266850000000002
+    ],
+    [
+      1.1870431250000002,
+      1.3681175
+    ],
+    [
+      1.1870431250000002,
+      1.3681175
+    ],
+    [
+      1.1870431250000002,
+      1.3681175
+    ],
+    [
+      1.4083562500000002,
+      1.7906243750000002
+    ],
+    [
+      2.3539668750000002,
+      2.45456375
+    ],
+    [
+      2.3539668750000002,
+      2.45456375
+    ],
+    [
+      2.3539668750000002,
+      2.45456375
+    ],
+    [
+      2.514921875,
+      2.77647375
+    ],
+    [
+      2.8167125000000004,
+      2.997786875
+    ],
+    [
+      3.0782643750000003,
+      3.118503125
+    ],
+    [
+      3.2191,
+      3.6013681250000005
+    ],
+    [
+      3.2191,
+      3.6013681250000005
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      9,
+      12
+    ],
+    [
+      13,
+      18
+    ],
+    [
+      19,
+      23
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      35
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      36,
+      37
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      43,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      58,
+      64
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2054,
+    2024,
+    2017,
+    2725,
+    2008,
+    1005,
+    1055,
+    2367,
+    1029,
+    1000,
+    2027,
+    2467,
+    2215,
+    2019,
+    3437,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.023875,
+  "sample_id": "-egA8-b7-3M$_$13",
+  "video": "-egA8-b7-3M/13.mp4",
+  "original_text": "What are you doing that's different?\" They always want an answer.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

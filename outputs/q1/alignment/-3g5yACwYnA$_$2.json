@@ -1,0 +1,685 @@
+{
+  "words": [
+    {
+      "word": "Key",
+      "char_start": 0,
+      "char_end": 3,
+      "start": 1.8622821312364426,
+      "end": 1.9824293655097613,
+      "confidence": 0.7999844551086426
+    },
+    {
+      "word": "Polymer",
+      "char_start": 4,
+      "char_end": 11,
+      "start": 3.023705395878525,
+      "end": 3.3641225596529285,
+      "confidence": 0.27354344725608826
+    },
+    {
+      "word": "brings",
+      "char_start": 12,
+      "char_end": 18,
+      "start": 3.4041716377440348,
+      "end": 3.604417028199566,
+      "confidence": 0.95481276512146
+    },
+    {
+      "word": "a",
+      "char_start": 19,
+      "char_end": 20,
+      "start": 3.684515184381779,
+      "end": 3.704539723427332,
+      "confidence": 0.6978205442428589
+    },
+    {
+      "word": "technical",
+      "char_start": 21,
+      "char_end": 30,
+      "start": 3.7646133405639914,
+      "end": 4.145079582429501,
+      "confidence": 0.9923908710479736
+    },
+    {
+      "word": "aspect",
+      "char_start": 31,
+      "char_end": 37,
+      "start": 4.3853740509761385,
+      "end": 4.685742136659436,
+      "confidence": 0.9955010414123535
+    },
+    {
+      "word": "to",
+      "char_start": 38,
+      "char_end": 40,
+      "start": 4.725791214750543,
+      "end": 4.865962988069414,
+      "confidence": 0.9960408210754395
+    },
+    {
+      "word": "our",
+      "char_start": 41,
+      "char_end": 44,
+      "start": 5.867189940347072,
+      "end": 5.9472880965292845,
+      "confidence": 0.9889850616455078
+    },
+    {
+      "word": "operation",
+      "char_start": 45,
+      "char_end": 54,
+      "start": 6.007361713665944,
+      "end": 6.4278770336225595,
+      "confidence": 0.9704334735870361
+    },
+    {
+      "word": "that",
+      "char_start": 55,
+      "char_end": 59,
+      "start": 6.507975189804772,
+      "end": 6.628122424078091,
+      "confidence": 0.9883191585540771
+    },
+    {
+      "word": "we",
+      "char_start": 60,
+      "char_end": 62,
+      "start": 6.68819604121475,
+      "end": 6.74826965835141,
+      "confidence": 0.9997293949127197
+    },
+    {
+      "word": "don't",
+      "char_start": 63,
+      "char_end": 68,
+      "start": 6.828367814533623,
+      "end": 7.008588665943601,
+      "confidence": 0.8840022683143616
+    },
+    {
+      "word": "have",
+      "char_start": 69,
+      "char_end": 73,
+      "start": 7.048637744034707,
+      "end": 7.208834056399132,
+      "confidence": 0.991776168346405
+    },
+    {
+      "word": "internally",
+      "char_start": 74,
+      "char_end": 84,
+      "start": 7.288932212581345,
+      "end": 7.689422993492408,
+      "confidence": 0.9610691070556641
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1.8622821312364426,
+      1.9824293655097613
+    ],
+    [
+      3.023705395878525,
+      3.3641225596529285
+    ],
+    [
+      3.4041716377440348,
+      3.604417028199566
+    ],
+    [
+      3.684515184381779,
+      3.704539723427332
+    ],
+    [
+      3.7646133405639914,
+      4.145079582429501
+    ],
+    [
+      4.3853740509761385,
+      4.685742136659436
+    ],
+    [
+      4.725791214750543,
+      4.865962988069414
+    ],
+    [
+      5.867189940347072,
+      5.9472880965292845
+    ],
+    [
+      6.007361713665944,
+      6.4278770336225595
+    ],
+    [
+      6.507975189804772,
+      6.628122424078091
+    ],
+    [
+      6.68819604121475,
+      6.74826965835141
+    ],
+    [
+      6.828367814533623,
+      7.008588665943601
+    ],
+    [
+      6.828367814533623,
+      7.008588665943601
+    ],
+    [
+      6.828367814533623,
+      7.008588665943601
+    ],
+    [
+      7.048637744034707,
+      7.208834056399132
+    ],
+    [
+      7.288932212581345,
+      7.689422993492408
+    ],
+    [
+      7.288932212581345,
+      7.689422993492408
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      21,
+      30
+    ],
+    [
+      31,
+      37
+    ],
+    [
+      38,
+      40
+    ],
+    [
+      41,
+      44
+    ],
+    [
+      45,
+      54
+    ],
+    [
+      55,
+      59
+    ],
+    [
+      60,
+      62
+    ],
+    [
+      63,
+      66
+    ],
+    [
+      66,
+      67
+    ],
+    [
+      67,
+      68
+    ],
+    [
+      69,
+      73
+    ],
+    [
+      74,
+      84
+    ],
+    [
+      84,
+      85
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    3145,
+    17782,
+    7545,
+    1037,
+    4087,
+    7814,
+    2000,
+    2256,
+    3169,
+    2008,
+    2057,
+    2123,
+    1005,
+    1056,
+    2031,
+    16058,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 9.2313125,
+  "sample_id": "-3g5yACwYnA$_$2",
+  "video": "-3g5yACwYnA/2.mp4",
+  "original_text": "Key Polymer brings a technical aspect to our operation that we don't have internally.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

@@ -1,0 +1,725 @@
+{
+  "words": [
+    {
+      "word": "If",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.520666335978836,
+      "end": 0.580743220899471,
+      "confidence": 0.9371172785758972
+    },
+    {
+      "word": "it",
+      "char_start": 3,
+      "char_end": 5,
+      "start": 0.6608457341269841,
+      "end": 0.7008969907407407,
+      "confidence": 0.9989309310913086
+    },
+    {
+      "word": "falls",
+      "char_start": 6,
+      "char_end": 11,
+      "start": 0.7609738756613756,
+      "end": 1.0012814153439153,
+      "confidence": 0.972220778465271
+    },
+    {
+      "word": "into",
+      "char_start": 12,
+      "char_end": 16,
+      "start": 1.0813839285714286,
+      "end": 1.2616145833333334,
+      "confidence": 0.9941690564155579
+    },
+    {
+      "word": "oh",
+      "char_start": 17,
+      "char_end": 19,
+      "start": 1.361742724867725,
+      "end": 1.4418452380952382,
+      "confidence": 0.09013640135526657
+    },
+    {
+      "word": "any",
+      "char_start": 20,
+      "char_end": 23,
+      "start": 1.6421015211640213,
+      "end": 1.7422296626984128,
+      "confidence": 0.9699254035949707
+    },
+    {
+      "word": "of",
+      "char_start": 24,
+      "char_end": 26,
+      "start": 1.8023065476190476,
+      "end": 1.8423578042328044,
+      "confidence": 0.9974715709686279
+    },
+    {
+      "word": "those",
+      "char_start": 27,
+      "char_end": 32,
+      "start": 1.9024346891534392,
+      "end": 2.0626397156084657,
+      "confidence": 0.9982043504714966
+    },
+    {
+      "word": "three",
+      "char_start": 33,
+      "char_end": 38,
+      "start": 2.1227166005291007,
+      "end": 2.2829216269841273,
+      "confidence": 0.9953415393829346
+    },
+    {
+      "word": "categories",
+      "char_start": 39,
+      "char_end": 49,
+      "start": 2.322972883597884,
+      "end": 2.8836904761904765,
+      "confidence": 0.9821900129318237
+    },
+    {
+      "word": "inducing",
+      "char_start": 51,
+      "char_end": 59,
+      "start": 3.644664351851852,
+      "end": 4.2053819444444445,
+      "confidence": 0.9914193153381348
+    },
+    {
+      "word": "nausea",
+      "char_start": 60,
+      "char_end": 66,
+      "start": 5.066483961640212,
+      "end": 5.386894014550265,
+      "confidence": 0.7552345395088196
+    },
+    {
+      "word": "and",
+      "char_start": 67,
+      "char_end": 70,
+      "start": 5.466996527777778,
+      "end": 5.547099041005291,
+      "confidence": 0.9983422756195068
+    },
+    {
+      "word": "vomiting",
+      "char_start": 71,
+      "char_end": 79,
+      "start": 5.607175925925926,
+      "end": 6.007688492063492,
+      "confidence": 0.9073683619499207
+    },
+    {
+      "word": "would",
+      "char_start": 80,
+      "char_end": 85,
+      "start": 6.247996031746032,
+      "end": 6.38817542989418,
+      "confidence": 0.9844295382499695
+    },
+    {
+      "word": "be",
+      "char_start": 86,
+      "char_end": 88,
+      "start": 6.408201058201058,
+      "end": 6.468277943121693,
+      "confidence": 0.9976360201835632
+    },
+    {
+      "word": "your",
+      "char_start": 89,
+      "char_end": 93,
+      "start": 6.50832919973545,
+      "end": 6.62848296957672,
+      "confidence": 0.8955782055854797
+    },
+    {
+      "word": "next",
+      "char_start": 94,
+      "char_end": 98,
+      "start": 6.648508597883598,
+      "end": 6.808713624338624,
+      "confidence": 0.9753314256668091
+    },
+    {
+      "word": "step",
+      "char_start": 99,
+      "char_end": 103,
+      "start": 6.828739252645503,
+      "end": 7.049021164021164,
+      "confidence": 0.13602574169635773
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.520666335978836,
+      0.580743220899471
+    ],
+    [
+      0.6608457341269841,
+      0.7008969907407407
+    ],
+    [
+      0.7609738756613756,
+      1.0012814153439153
+    ],
+    [
+      1.0813839285714286,
+      1.2616145833333334
+    ],
+    [
+      1.361742724867725,
+      1.4418452380952382
+    ],
+    [
+      1.6421015211640213,
+      1.7422296626984128
+    ],
+    [
+      1.8023065476190476,
+      1.8423578042328044
+    ],
+    [
+      1.9024346891534392,
+      2.0626397156084657
+    ],
+    [
+      2.1227166005291007,
+      2.2829216269841273
+    ],
+    [
+      2.322972883597884,
+      2.8836904761904765
+    ],
+    [
+      3.644664351851852,
+      4.2053819444444445
+    ],
+    [
+      3.644664351851852,
+      4.2053819444444445
+    ],
+    [
+      5.066483961640212,
+      5.386894014550265
+    ],
+    [
+      5.466996527777778,
+      5.547099041005291
+    ],
+    [
+      5.607175925925926,
+      6.007688492063492
+    ],
+    [
+      6.247996031746032,
+      6.38817542989418
+    ],
+    [
+      6.408201058201058,
+      6.468277943121693
+    ],
+    [
+      6.50832919973545,
+      6.62848296957672
+    ],
+    [
+      6.648508597883598,
+      6.808713624338624
+    ],
+    [
+      6.828739252645503,
+      7.049021164021164
+    ],
+    [
+      6.828739252645503,
+      7.049021164021164
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      24,
+      26
+    ],
+    [
+      27,
+      32
+    ],
+    [
+      33,
+      38
+    ],
+    [
+      39,
+      49
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      51,
+      59
+    ],
+    [
+      60,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      79
+    ],
+    [
+      80,
+      85
+    ],
+    [
+      86,
+      88
+    ],
+    [
+      89,
+      93
+    ],
+    [
+      94,
+      98
+    ],
+    [
+      99,
+      103
+    ],
+    [
+      103,
+      104
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2065,
+    2009,
+    4212,
+    2046,
+    2821,
+    2151,
+    1997,
+    2216,
+    2093,
+    7236,
+    1010,
+    29290,
+    19029,
+    1998,
+    24780,
+    2052,
+    2022,
+    2115,
+    2279,
+    3357,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 7.5696875,
+  "sample_id": "-lzEya4AM_4$_$5",
+  "video": "-lzEya4AM_4/5.mp4",
+  "original_text": "If it falls into oh any of those three categories, inducing nausea and vomiting would be your next step.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

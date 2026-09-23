@@ -1,0 +1,701 @@
+{
+  "words": [
+    {
+      "word": "The",
+      "char_start": 0,
+      "char_end": 3,
+      "start": 0.1401870393120393,
+      "end": 0.40053439803439794,
+      "confidence": 0.32927942276000977
+    },
+    {
+      "word": "August",
+      "char_start": 4,
+      "char_end": 10,
+      "start": 1.9425918304668301,
+      "end": 2.202939189189189,
+      "confidence": 0.937467634677887
+    },
+    {
+      "word": "jobs",
+      "char_start": 11,
+      "char_end": 15,
+      "start": 2.3230995085995083,
+      "end": 2.623500307125307,
+      "confidence": 0.9673354029655457
+    },
+    {
+      "word": "report",
+      "char_start": 16,
+      "char_end": 22,
+      "start": 2.6835804668304664,
+      "end": 2.983981265356265,
+      "confidence": 0.9774356484413147
+    },
+    {
+      "word": "is",
+      "char_start": 23,
+      "char_end": 25,
+      "start": 3.0640881449631445,
+      "end": 3.144195024570024,
+      "confidence": 0.573545515537262
+    },
+    {
+      "word": "out",
+      "char_start": 26,
+      "char_end": 29,
+      "start": 3.3244355036855033,
+      "end": 3.4245691031941026,
+      "confidence": 0.997795045375824
+    },
+    {
+      "word": "and",
+      "char_start": 30,
+      "char_end": 33,
+      "start": 3.8651569410319406,
+      "end": 3.98531726044226,
+      "confidence": 0.9558373689651489
+    },
+    {
+      "word": "it",
+      "char_start": 34,
+      "char_end": 36,
+      "start": 4.205611179361179,
+      "end": 4.245664619164619,
+      "confidence": 0.9947617053985596
+    },
+    {
+      "word": "was",
+      "char_start": 37,
+      "char_end": 40,
+      "start": 4.305744778869778,
+      "end": 4.405878378378378,
+      "confidence": 0.9956269264221191
+    },
+    {
+      "word": "seen",
+      "char_start": 41,
+      "char_end": 45,
+      "start": 4.506011977886978,
+      "end": 4.746332616707616,
+      "confidence": 0.9281113743782043
+    },
+    {
+      "word": "overall",
+      "char_start": 46,
+      "char_end": 53,
+      "start": 5.267027334152333,
+      "end": 5.727641891891891,
+      "confidence": 0.9289337992668152
+    },
+    {
+      "word": "as",
+      "char_start": 54,
+      "char_end": 56,
+      "start": 6.208283169533169,
+      "end": 6.248336609336608,
+      "confidence": 0.674302875995636
+    },
+    {
+      "word": "solid",
+      "char_start": 57,
+      "char_end": 62,
+      "start": 6.388523648648648,
+      "end": 6.728977886977886,
+      "confidence": 0.9268662333488464
+    },
+    {
+      "word": "but",
+      "char_start": 63,
+      "char_end": 66,
+      "start": 6.809084766584766,
+      "end": 6.929245085995085,
+      "confidence": 0.9685352444648743
+    },
+    {
+      "word": "not",
+      "char_start": 67,
+      "char_end": 70,
+      "start": 7.029378685503684,
+      "end": 7.209619164619164,
+      "confidence": 0.9959489703178406
+    },
+    {
+      "word": "great",
+      "char_start": 71,
+      "char_end": 76,
+      "start": 7.349806203931203,
+      "end": 8.130848280098279,
+      "confidence": 0.6148253679275513
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.1401870393120393,
+      0.40053439803439794
+    ],
+    [
+      1.9425918304668301,
+      2.202939189189189
+    ],
+    [
+      2.3230995085995083,
+      2.623500307125307
+    ],
+    [
+      2.6835804668304664,
+      2.983981265356265
+    ],
+    [
+      3.0640881449631445,
+      3.144195024570024
+    ],
+    [
+      3.3244355036855033,
+      3.4245691031941026
+    ],
+    [
+      3.8651569410319406,
+      3.98531726044226
+    ],
+    [
+      4.205611179361179,
+      4.245664619164619
+    ],
+    [
+      4.305744778869778,
+      4.405878378378378
+    ],
+    [
+      4.506011977886978,
+      4.746332616707616
+    ],
+    [
+      5.267027334152333,
+      5.727641891891891
+    ],
+    [
+      6.208283169533169,
+      6.248336609336608
+    ],
+    [
+      6.388523648648648,
+      6.728977886977886
+    ],
+    [
+      6.809084766584766,
+      6.929245085995085
+    ],
+    [
+      7.029378685503684,
+      7.209619164619164
+    ],
+    [
+      7.349806203931203,
+      8.130848280098279
+    ],
+    [
+      7.349806203931203,
+      8.130848280098279
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      11,
+      15
+    ],
+    [
+      16,
+      22
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      34,
+      36
+    ],
+    [
+      37,
+      40
+    ],
+    [
+      41,
+      45
+    ],
+    [
+      46,
+      53
+    ],
+    [
+      54,
+      56
+    ],
+    [
+      57,
+      62
+    ],
+    [
+      63,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      76
+    ],
+    [
+      76,
+      77
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1996,
+    2257,
+    5841,
+    3189,
+    2003,
+    2041,
+    1998,
+    2009,
+    2001,
+    2464,
+    3452,
+    2004,
+    5024,
+    2021,
+    2025,
+    2307,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 8.150875,
+  "sample_id": "-HeZS2-Prhc$_$2",
+  "video": "-HeZS2-Prhc/2.mp4",
+  "original_text": "The August jobs report is out and it was seen overall as solid but not great.",
+  "face_detection_rate": 0.975609756097561,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

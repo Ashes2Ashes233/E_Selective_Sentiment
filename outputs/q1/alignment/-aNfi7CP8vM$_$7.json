@@ -1,0 +1,717 @@
+{
+  "words": [
+    {
+      "word": "Maybe",
+      "char_start": 0,
+      "char_end": 5,
+      "start": 0.5411210387323944,
+      "end": 0.8617853579812207,
+      "confidence": 0.9082127809524536
+    },
+    {
+      "word": "they",
+      "char_start": 6,
+      "char_end": 10,
+      "start": 1.58328007629108,
+      "end": 1.70352919600939,
+      "confidence": 0.9149715900421143
+    },
+    {
+      "word": "have",
+      "char_start": 11,
+      "char_end": 15,
+      "start": 1.7836952758215965,
+      "end": 1.9039443955399062,
+      "confidence": 0.9649848937988281
+    },
+    {
+      "word": "no",
+      "char_start": 16,
+      "char_end": 18,
+      "start": 1.9640689553990613,
+      "end": 2.0642765551643194,
+      "confidence": 0.9859380722045898
+    },
+    {
+      "word": "political",
+      "char_start": 19,
+      "char_end": 28,
+      "start": 2.184525674882629,
+      "end": 2.605397593896714,
+      "confidence": 0.9856858849525452
+    },
+    {
+      "word": "party",
+      "char_start": 29,
+      "char_end": 34,
+      "start": 2.705605193661972,
+      "end": 2.986186473004695,
+      "confidence": 0.9974212050437927
+    },
+    {
+      "word": "affiliation",
+      "char_start": 35,
+      "char_end": 46,
+      "start": 3.0663525528169018,
+      "end": 3.8078887910798125,
+      "confidence": 0.9161276817321777
+    },
+    {
+      "word": "they're",
+      "char_start": 48,
+      "char_end": 55,
+      "start": 4.26884375,
+      "end": 4.4893004694835685,
+      "confidence": 0.8789379000663757
+    },
+    {
+      "word": "not",
+      "char_start": 56,
+      "char_end": 59,
+      "start": 4.50934198943662,
+      "end": 4.62959110915493,
+      "confidence": 0.998948335647583
+    },
+    {
+      "word": "interested",
+      "char_start": 60,
+      "char_end": 70,
+      "start": 4.789923268779344,
+      "end": 5.170712147887325,
+      "confidence": 0.9260128736495972
+    },
+    {
+      "word": "in",
+      "char_start": 71,
+      "char_end": 73,
+      "start": 5.250878227699531,
+      "end": 5.290961267605635,
+      "confidence": 0.999732494354248
+    },
+    {
+      "word": "politics",
+      "char_start": 74,
+      "char_end": 82,
+      "start": 5.3510858274647894,
+      "end": 5.932289906103287,
+      "confidence": 0.9226866960525513
+    },
+    {
+      "word": "they",
+      "char_start": 84,
+      "char_end": 88,
+      "start": 6.012455985915493,
+      "end": 6.1327051056338036,
+      "confidence": 0.9852189421653748
+    },
+    {
+      "word": "could",
+      "char_start": 89,
+      "char_end": 94,
+      "start": 6.172788145539907,
+      "end": 6.313078785211268,
+      "confidence": 0.9383116364479065
+    },
+    {
+      "word": "care",
+      "char_start": 95,
+      "char_end": 99,
+      "start": 6.353161825117372,
+      "end": 6.533535504694837,
+      "confidence": 0.9966739416122437
+    },
+    {
+      "word": "less",
+      "char_start": 100,
+      "char_end": 104,
+      "start": 6.613701584507043,
+      "end": 6.854199823943663,
+      "confidence": 0.9155619144439697
+    },
+    {
+      "word": "about",
+      "char_start": 105,
+      "char_end": 110,
+      "start": 6.914324383802818,
+      "end": 7.134781103286386,
+      "confidence": 0.9866399765014648
+    },
+    {
+      "word": "politics",
+      "char_start": 111,
+      "char_end": 119,
+      "start": 7.214947183098593,
+      "end": 7.876317341549297,
+      "confidence": 0.9555079936981201
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5411210387323944,
+      0.8617853579812207
+    ],
+    [
+      1.58328007629108,
+      1.70352919600939
+    ],
+    [
+      1.7836952758215965,
+      1.9039443955399062
+    ],
+    [
+      1.9640689553990613,
+      2.0642765551643194
+    ],
+    [
+      2.184525674882629,
+      2.605397593896714
+    ],
+    [
+      2.705605193661972,
+      2.986186473004695
+    ],
+    [
+      3.0663525528169018,
+      3.8078887910798125
+    ],
+    [
+      4.26884375,
+      4.4893004694835685
+    ],
+    [
+      4.26884375,
+      4.4893004694835685
+    ],
+    [
+      4.26884375,
+      4.4893004694835685
+    ],
+    [
+      4.26884375,
+      4.4893004694835685
+    ],
+    [
+      4.50934198943662,
+      4.62959110915493
+    ],
+    [
+      4.789923268779344,
+      5.170712147887325
+    ],
+    [
+      5.250878227699531,
+      5.290961267605635
+    ],
+    [
+      5.3510858274647894,
+      5.932289906103287
+    ],
+    [
+      6.012455985915493,
+      6.1327051056338036
+    ],
+    [
+      6.012455985915493,
+      6.1327051056338036
+    ],
+    [
+      6.172788145539907,
+      6.313078785211268
+    ],
+    [
+      6.353161825117372,
+      6.533535504694837
+    ],
+    [
+      6.613701584507043,
+      6.854199823943663
+    ],
+    [
+      6.914324383802818,
+      7.134781103286386
+    ],
+    [
+      7.214947183098593,
+      7.876317341549297
+    ],
+    [
+      7.214947183098593,
+      7.876317341549297
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      11,
+      15
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      19,
+      28
+    ],
+    [
+      29,
+      34
+    ],
+    [
+      35,
+      46
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48,
+      52
+    ],
+    [
+      52,
+      53
+    ],
+    [
+      53,
+      55
+    ],
+    [
+      56,
+      59
+    ],
+    [
+      60,
+      70
+    ],
+    [
+      71,
+      73
+    ],
+    [
+      74,
+      82
+    ],
+    [
+      82,
+      83
+    ],
+    [
+      84,
+      88
+    ],
+    [
+      89,
+      94
+    ],
+    [
+      95,
+      99
+    ],
+    [
+      100,
+      104
+    ],
+    [
+      105,
+      110
+    ],
+    [
+      111,
+      119
+    ],
+    [
+      119,
+      120
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2672,
+    2027,
+    2031,
+    2053,
+    2576,
+    2283,
+    12912,
+    1010,
+    2027,
+    1005,
+    2128,
+    2025,
+    4699,
+    1999,
+    4331,
+    1010,
+    2027,
+    2071,
+    2729,
+    2625,
+    2055,
+    4331,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 8.5376875,
+  "sample_id": "-aNfi7CP8vM$_$7",
+  "video": "-aNfi7CP8vM/7.mp4",
+  "original_text": "Maybe they have no political party affiliation, they're not interested in politics, they could care less about politics.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

@@ -1,0 +1,645 @@
+{
+  "words": [
+    {
+      "word": "President",
+      "char_start": 2,
+      "char_end": 11,
+      "start": 0.8034873188405798,
+      "end": 1.2052309782608697,
+      "confidence": 0.9950702786445618
+    },
+    {
+      "word": "Ronald",
+      "char_start": 12,
+      "char_end": 18,
+      "start": 1.3257540760869566,
+      "end": 1.6270618206521739,
+      "confidence": 0.9220144748687744
+    },
+    {
+      "word": "Reagan",
+      "char_start": 19,
+      "char_end": 25,
+      "start": 1.707410552536232,
+      "end": 2.0890670289855073,
+      "confidence": 0.6132148504257202
+    },
+    {
+      "word": "blamed",
+      "char_start": 26,
+      "char_end": 32,
+      "start": 2.209590126811594,
+      "end": 2.530985054347826,
+      "confidence": 0.9835716485977173
+    },
+    {
+      "word": "the",
+      "char_start": 33,
+      "char_end": 36,
+      "start": 2.6515081521739132,
+      "end": 2.731856884057971,
+      "confidence": 0.9991386532783508
+    },
+    {
+      "word": "professional",
+      "char_start": 37,
+      "char_end": 49,
+      "start": 2.7921184329710145,
+      "end": 3.374646739130435,
+      "confidence": 0.9589004516601562
+    },
+    {
+      "word": "bureaucracy",
+      "char_start": 50,
+      "char_end": 61,
+      "start": 3.475082653985507,
+      "end": 4.158046875,
+      "confidence": 0.8105856776237488
+    },
+    {
+      "word": "of",
+      "char_start": 62,
+      "char_end": 64,
+      "start": 4.318744338768116,
+      "end": 4.358918704710145,
+      "confidence": 0.9993758201599121
+    },
+    {
+      "word": "education",
+      "char_start": 65,
+      "char_end": 74,
+      "start": 4.479441802536232,
+      "end": 5.102144474637681,
+      "confidence": 0.6832426190376282
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.8034873188405798,
+      1.2052309782608697
+    ],
+    [
+      0.8034873188405798,
+      1.2052309782608697
+    ],
+    [
+      1.3257540760869566,
+      1.6270618206521739
+    ],
+    [
+      1.707410552536232,
+      2.0890670289855073
+    ],
+    [
+      2.209590126811594,
+      2.530985054347826
+    ],
+    [
+      2.6515081521739132,
+      2.731856884057971
+    ],
+    [
+      2.7921184329710145,
+      3.374646739130435
+    ],
+    [
+      3.475082653985507,
+      4.158046875
+    ],
+    [
+      4.318744338768116,
+      4.358918704710145
+    ],
+    [
+      4.479441802536232,
+      5.102144474637681
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      19,
+      25
+    ],
+    [
+      26,
+      32
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      37,
+      49
+    ],
+    [
+      50,
+      61
+    ],
+    [
+      62,
+      64
+    ],
+    [
+      65,
+      74
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1000,
+    2343,
+    8923,
+    11531,
+    11248,
+    1996,
+    2658,
+    25934,
+    1997,
+    2495,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.5440625,
+  "sample_id": "-HwX2H8Z4hY$_$5",
+  "video": "-HwX2H8Z4hY/5.mp4",
+  "original_text": "\" President Ronald Reagan blamed the professional bureaucracy of education",
+  "face_detection_rate": 0.25,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

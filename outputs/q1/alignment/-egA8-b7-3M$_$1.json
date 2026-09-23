@@ -1,0 +1,725 @@
+{
+  "words": [
+    {
+      "word": "I",
+      "char_start": 0,
+      "char_end": 1,
+      "start": 0.08012820512820513,
+      "end": 0.10016025641025642,
+      "confidence": 0.9590452909469604
+    },
+    {
+      "word": "started",
+      "char_start": 2,
+      "char_end": 9,
+      "start": 1.2820512820512822,
+      "end": 1.6426282051282053,
+      "confidence": 0.9993783235549927
+    },
+    {
+      "word": "a",
+      "char_start": 10,
+      "char_end": 11,
+      "start": 1.762820512820513,
+      "end": 1.7828525641025643,
+      "confidence": 0.9906134605407715
+    },
+    {
+      "word": "successful",
+      "char_start": 12,
+      "char_end": 22,
+      "start": 1.842948717948718,
+      "end": 2.403846153846154,
+      "confidence": 0.9711360335350037
+    },
+    {
+      "word": "Legal",
+      "char_start": 23,
+      "char_end": 28,
+      "start": 2.5040064102564106,
+      "end": 2.7243589743589745,
+      "confidence": 0.9984952211380005
+    },
+    {
+      "word": "Nurse",
+      "char_start": 29,
+      "char_end": 34,
+      "start": 2.7844551282051286,
+      "end": 2.96474358974359,
+      "confidence": 0.8615466356277466
+    },
+    {
+      "word": "Consulting",
+      "char_start": 35,
+      "char_end": 45,
+      "start": 3.024839743589744,
+      "end": 3.525641025641026,
+      "confidence": 0.9813964366912842
+    },
+    {
+      "word": "Business",
+      "char_start": 46,
+      "char_end": 54,
+      "start": 3.5857371794871797,
+      "end": 4.006410256410256,
+      "confidence": 0.922315239906311
+    },
+    {
+      "word": "in",
+      "char_start": 55,
+      "char_end": 57,
+      "start": 4.767628205128205,
+      "end": 5.1081730769230775,
+      "confidence": 0.7763044834136963
+    },
+    {
+      "word": "I",
+      "char_start": 64,
+      "char_end": 65,
+      "start": 5.208333333333334,
+      "end": 5.248397435897436,
+      "confidence": 0.49999746680259705
+    },
+    {
+      "word": "mentor",
+      "char_start": 66,
+      "char_end": 72,
+      "start": 6.55048076923077,
+      "end": 6.891025641025641,
+      "confidence": 0.8464433550834656
+    },
+    {
+      "word": "nurses",
+      "char_start": 73,
+      "char_end": 79,
+      "start": 6.951121794871796,
+      "end": 7.33173076923077,
+      "confidence": 0.8982240557670593
+    },
+    {
+      "word": "who",
+      "char_start": 80,
+      "char_end": 83,
+      "start": 7.391826923076923,
+      "end": 7.471955128205129,
+      "confidence": 0.9976099133491516
+    },
+    {
+      "word": "want",
+      "char_start": 84,
+      "char_end": 88,
+      "start": 7.572115384615385,
+      "end": 7.79246794871795,
+      "confidence": 0.8853885531425476
+    },
+    {
+      "word": "to",
+      "char_start": 89,
+      "char_end": 91,
+      "start": 7.852564102564103,
+      "end": 7.912660256410257,
+      "confidence": 0.9992130398750305
+    },
+    {
+      "word": "become",
+      "char_start": 92,
+      "char_end": 98,
+      "start": 7.972756410256411,
+      "end": 8.25320512820513,
+      "confidence": 0.9848347902297974
+    },
+    {
+      "word": "Legal",
+      "char_start": 99,
+      "char_end": 104,
+      "start": 8.333333333333334,
+      "end": 8.553685897435898,
+      "confidence": 0.9801837801933289
+    },
+    {
+      "word": "Nurse",
+      "char_start": 105,
+      "char_end": 110,
+      "start": 8.59375,
+      "end": 8.794070512820513,
+      "confidence": 0.806185245513916
+    },
+    {
+      "word": "Consultants",
+      "char_start": 111,
+      "char_end": 122,
+      "start": 8.874198717948719,
+      "end": 9.475160256410257,
+      "confidence": 0.9110621809959412
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.08012820512820513,
+      0.10016025641025642
+    ],
+    [
+      1.2820512820512822,
+      1.6426282051282053
+    ],
+    [
+      1.762820512820513,
+      1.7828525641025643
+    ],
+    [
+      1.842948717948718,
+      2.403846153846154
+    ],
+    [
+      2.5040064102564106,
+      2.7243589743589745
+    ],
+    [
+      2.7844551282051286,
+      2.96474358974359
+    ],
+    [
+      3.024839743589744,
+      3.525641025641026
+    ],
+    [
+      3.5857371794871797,
+      4.006410256410256
+    ],
+    [
+      4.767628205128205,
+      5.1081730769230775
+    ],
+    [
+      4.767628205128205,
+      5.1081730769230775
+    ],
+    [
+      5.208333333333334,
+      5.248397435897436
+    ],
+    [
+      5.208333333333334,
+      5.248397435897436
+    ],
+    [
+      6.55048076923077,
+      6.891025641025641
+    ],
+    [
+      6.951121794871796,
+      7.33173076923077
+    ],
+    [
+      7.391826923076923,
+      7.471955128205129
+    ],
+    [
+      7.572115384615385,
+      7.79246794871795
+    ],
+    [
+      7.852564102564103,
+      7.912660256410257
+    ],
+    [
+      7.972756410256411,
+      8.25320512820513
+    ],
+    [
+      8.333333333333334,
+      8.553685897435898
+    ],
+    [
+      8.59375,
+      8.794070512820513
+    ],
+    [
+      8.874198717948719,
+      9.475160256410257
+    ],
+    [
+      8.874198717948719,
+      9.475160256410257
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      22
+    ],
+    [
+      23,
+      28
+    ],
+    [
+      29,
+      34
+    ],
+    [
+      35,
+      45
+    ],
+    [
+      46,
+      54
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      58,
+      62
+    ],
+    [
+      62,
+      63
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      66,
+      72
+    ],
+    [
+      73,
+      79
+    ],
+    [
+      80,
+      83
+    ],
+    [
+      84,
+      88
+    ],
+    [
+      89,
+      91
+    ],
+    [
+      92,
+      98
+    ],
+    [
+      99,
+      104
+    ],
+    [
+      105,
+      110
+    ],
+    [
+      111,
+      122
+    ],
+    [
+      122,
+      123
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1045,
+    2318,
+    1037,
+    3144,
+    3423,
+    6821,
+    10552,
+    2449,
+    1999,
+    2960,
+    1012,
+    1045,
+    10779,
+    11500,
+    2040,
+    2215,
+    2000,
+    2468,
+    3423,
+    6821,
+    22283,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 10.15625,
+  "sample_id": "-egA8-b7-3M$_$1",
+  "video": "-egA8-b7-3M/1.mp4",
+  "original_text": "I started a successful Legal Nurse Consulting Business in 1989. I mentor nurses who want to become Legal Nurse Consultants.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

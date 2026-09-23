@@ -1,0 +1,26 @@
+PS D:\数模国赛\E题\selective_sentiment> .\.venv\Scripts\python.exe predict.py `
+>>   --checkpoint outputs_long_soft\best.pt `
+>>   --output outputs_long_soft
+Q2 exported 30 samples
+Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at D:\数模国赛\E题\selective_sentiment\pretrained\aligner and are newly initialized: ['wav2vec2.masked_spec_embed']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Q3 1/20 01: Neutral
+Q3 2/20 02: Positive
+Q3 3/20 03: Neutral
+Q3 4/20 04: Positive
+Q3 5/20 05: Positive
+Q3 6/20 06: Positive
+Q3 7/20 07: Positive
+Q3 8/20 08: Neutral
+Q3 9/20 09: Negative
+Q3 10/20 10: Negative
+Q3 11/20 11: Negative
+Q3 12/20 12: Negative
+Q3 13/20 13: Neutral
+Q3 14/20 14: Neutral
+Q3 15/20 15: Positive
+Q3 16/20 16: Negative
+Q3 17/20 17: Positive
+Q3 18/20 18: Neutral
+Q3 19/20 19: Positive
+Q3 20/20 20: Positive

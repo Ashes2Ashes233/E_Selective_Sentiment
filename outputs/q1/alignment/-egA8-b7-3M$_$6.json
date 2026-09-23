@@ -1,0 +1,669 @@
+{
+  "words": [
+    {
+      "word": "First",
+      "char_start": 0,
+      "char_end": 5,
+      "start": 0.5219521103896104,
+      "end": 0.8030032467532467,
+      "confidence": 0.9969768524169922
+    },
+    {
+      "word": "exhibiting",
+      "char_start": 6,
+      "char_end": 16,
+      "start": 1.0439042207792208,
+      "end": 1.5658563311688312,
+      "confidence": 0.9635807275772095
+    },
+    {
+      "word": "is",
+      "char_start": 17,
+      "char_end": 19,
+      "start": 1.6461566558441558,
+      "end": 1.7465320616883118,
+      "confidence": 0.804579496383667
+    },
+    {
+      "word": "a",
+      "char_start": 20,
+      "char_end": 21,
+      "start": 1.8067573051948052,
+      "end": 1.8268323863636364,
+      "confidence": 0.9773706793785095
+    },
+    {
+      "word": "wonderful",
+      "char_start": 22,
+      "char_end": 31,
+      "start": 1.9472828733766234,
+      "end": 2.4090097402597404,
+      "confidence": 0.8989880084991455
+    },
+    {
+      "word": "opportunity",
+      "char_start": 32,
+      "char_end": 43,
+      "start": 2.5495353084415586,
+      "end": 3.171862824675325,
+      "confidence": 0.9841455817222595
+    },
+    {
+      "word": "to",
+      "char_start": 44,
+      "char_end": 46,
+      "start": 3.2722382305194806,
+      "end": 3.392688717532468,
+      "confidence": 0.993299663066864
+    },
+    {
+      "word": "network",
+      "char_start": 47,
+      "char_end": 54,
+      "start": 3.4930641233766235,
+      "end": 3.874490665584416,
+      "confidence": 0.9997544288635254
+    },
+    {
+      "word": "with",
+      "char_start": 55,
+      "char_end": 59,
+      "start": 3.9748660714285715,
+      "end": 4.095316558441558,
+      "confidence": 0.9998506307601929
+    },
+    {
+      "word": "other",
+      "char_start": 60,
+      "char_end": 65,
+      "start": 4.275992288961039,
+      "end": 4.45666801948052,
+      "confidence": 0.9947222471237183
+    },
+    {
+      "word": "legal",
+      "char_start": 66,
+      "char_end": 71,
+      "start": 4.617268668831169,
+      "end": 4.898319805194805,
+      "confidence": 0.9671748876571655
+    },
+    {
+      "word": "vendors",
+      "char_start": 72,
+      "char_end": 79,
+      "start": 4.97862012987013,
+      "end": 5.400196834415585,
+      "confidence": 0.7463586926460266
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5219521103896104,
+      0.8030032467532467
+    ],
+    [
+      1.0439042207792208,
+      1.5658563311688312
+    ],
+    [
+      1.6461566558441558,
+      1.7465320616883118
+    ],
+    [
+      1.8067573051948052,
+      1.8268323863636364
+    ],
+    [
+      1.9472828733766234,
+      2.4090097402597404
+    ],
+    [
+      2.5495353084415586,
+      3.171862824675325
+    ],
+    [
+      3.2722382305194806,
+      3.392688717532468
+    ],
+    [
+      3.4930641233766235,
+      3.874490665584416
+    ],
+    [
+      3.9748660714285715,
+      4.095316558441558
+    ],
+    [
+      4.275992288961039,
+      4.45666801948052
+    ],
+    [
+      4.617268668831169,
+      4.898319805194805
+    ],
+    [
+      4.97862012987013,
+      5.400196834415585
+    ],
+    [
+      4.97862012987013,
+      5.400196834415585
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      16
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      31
+    ],
+    [
+      32,
+      43
+    ],
+    [
+      44,
+      46
+    ],
+    [
+      47,
+      54
+    ],
+    [
+      55,
+      59
+    ],
+    [
+      60,
+      65
+    ],
+    [
+      66,
+      71
+    ],
+    [
+      72,
+      79
+    ],
+    [
+      79,
+      80
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2034,
+    22922,
+    2003,
+    1037,
+    6919,
+    4495,
+    2000,
+    2897,
+    2007,
+    2060,
+    3423,
+    17088,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 6.183125,
+  "sample_id": "-egA8-b7-3M$_$6",
+  "video": "-egA8-b7-3M/6.mp4",
+  "original_text": "First exhibiting is a wonderful opportunity to network with other legal vendors.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

@@ -1,0 +1,661 @@
+{
+  "words": [
+    {
+      "word": "Third",
+      "char_start": 0,
+      "char_end": 5,
+      "start": 0.482021978021978,
+      "end": 0.7632014652014651,
+      "confidence": 0.9393188953399658
+    },
+    {
+      "word": "another",
+      "char_start": 7,
+      "char_end": 14,
+      "start": 0.9439597069597069,
+      "end": 1.2853919413919412,
+      "confidence": 0.9628787636756897
+    },
+    {
+      "word": "big",
+      "char_start": 15,
+      "char_end": 18,
+      "start": 1.3255604395604395,
+      "end": 1.486234432234432,
+      "confidence": 0.8763658404350281
+    },
+    {
+      "word": "benefit",
+      "char_start": 19,
+      "char_end": 26,
+      "start": 1.5464871794871793,
+      "end": 1.96825641025641,
+      "confidence": 0.9982696771621704
+    },
+    {
+      "word": "of",
+      "char_start": 27,
+      "char_end": 29,
+      "start": 2.0285091575091574,
+      "end": 2.0686776556776554,
+      "confidence": 0.9998513460159302
+    },
+    {
+      "word": "exhibiting",
+      "char_start": 30,
+      "char_end": 40,
+      "start": 2.18918315018315,
+      "end": 2.691289377289377,
+      "confidence": 0.97271728515625
+    },
+    {
+      "word": "is",
+      "char_start": 41,
+      "char_end": 43,
+      "start": 2.8318791208791207,
+      "end": 2.9122161172161167,
+      "confidence": 0.9982013702392578
+    },
+    {
+      "word": "connecting",
+      "char_start": 44,
+      "char_end": 54,
+      "start": 3.012637362637362,
+      "end": 3.4946593406593403,
+      "confidence": 0.9948191046714783
+    },
+    {
+      "word": "with",
+      "char_start": 55,
+      "char_end": 59,
+      "start": 3.5549120879120877,
+      "end": 3.695501831501831,
+      "confidence": 0.9697389602661133
+    },
+    {
+      "word": "existing",
+      "char_start": 60,
+      "char_end": 68,
+      "start": 3.8160073260073255,
+      "end": 4.318113553113553,
+      "confidence": 0.9836398959159851
+    },
+    {
+      "word": "clients",
+      "char_start": 69,
+      "char_end": 76,
+      "start": 4.3783663003663,
+      "end": 4.80013553113553,
+      "confidence": 0.9186291098594666
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.482021978021978,
+      0.7632014652014651
+    ],
+    [
+      0.9439597069597069,
+      1.2853919413919412
+    ],
+    [
+      0.9439597069597069,
+      1.2853919413919412
+    ],
+    [
+      1.3255604395604395,
+      1.486234432234432
+    ],
+    [
+      1.5464871794871793,
+      1.96825641025641
+    ],
+    [
+      2.0285091575091574,
+      2.0686776556776554
+    ],
+    [
+      2.18918315018315,
+      2.691289377289377
+    ],
+    [
+      2.8318791208791207,
+      2.9122161172161167
+    ],
+    [
+      3.012637362637362,
+      3.4946593406593403
+    ],
+    [
+      3.5549120879120877,
+      3.695501831501831
+    ],
+    [
+      3.8160073260073255,
+      4.318113553113553
+    ],
+    [
+      4.3783663003663,
+      4.80013553113553
+    ],
+    [
+      4.3783663003663,
+      4.80013553113553
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      14
+    ],
+    [
+      15,
+      18
+    ],
+    [
+      19,
+      26
+    ],
+    [
+      27,
+      29
+    ],
+    [
+      30,
+      40
+    ],
+    [
+      41,
+      43
+    ],
+    [
+      44,
+      54
+    ],
+    [
+      55,
+      59
+    ],
+    [
+      60,
+      68
+    ],
+    [
+      69,
+      76
+    ],
+    [
+      76,
+      77
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2353,
+    1010,
+    2178,
+    2502,
+    5770,
+    1997,
+    22922,
+    2003,
+    7176,
+    2007,
+    4493,
+    7846,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.483,
+  "sample_id": "-egA8-b7-3M$_$16",
+  "video": "-egA8-b7-3M/16.mp4",
+  "original_text": "Third, another big benefit of exhibiting is connecting with existing clients.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

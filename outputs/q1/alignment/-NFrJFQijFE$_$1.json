@@ -1,0 +1,701 @@
+{
+  "words": [
+    {
+      "word": "Structural",
+      "char_start": 0,
+      "char_end": 10,
+      "start": 0.0802677304964539,
+      "end": 0.4816063829787234,
+      "confidence": 0.009164443239569664
+    },
+    {
+      "word": "mounts",
+      "char_start": 11,
+      "char_end": 17,
+      "start": 0.6822757092198581,
+      "end": 0.8829450354609929,
+      "confidence": 0.004871774930506945
+    },
+    {
+      "word": "inside",
+      "char_start": 18,
+      "char_end": 24,
+      "start": 0.9431458333333333,
+      "end": 1.1839490248226952,
+      "confidence": 0.005551380570977926
+    },
+    {
+      "word": "have",
+      "char_start": 25,
+      "char_end": 29,
+      "start": 1.264216755319149,
+      "end": 1.4448191489361701,
+      "confidence": 0.023802731186151505
+    },
+    {
+      "word": "to",
+      "char_start": 30,
+      "char_end": 32,
+      "start": 1.645488475177305,
+      "end": 1.725756205673759,
+      "confidence": 0.007927103899419308
+    },
+    {
+      "word": "be",
+      "char_start": 33,
+      "char_end": 35,
+      "start": 1.8862916666666667,
+      "end": 1.9665593971631206,
+      "confidence": 0.02081802673637867
+    },
+    {
+      "word": "properly",
+      "char_start": 36,
+      "char_end": 44,
+      "start": 2.0468271276595744,
+      "end": 2.3478311170212764,
+      "confidence": 0.013597125187516212
+    },
+    {
+      "word": "stress",
+      "char_start": 45,
+      "char_end": 51,
+      "start": 2.3678980496453903,
+      "end": 2.5886343085106382,
+      "confidence": 0.01543789729475975
+    },
+    {
+      "word": "analyzed",
+      "char_start": 52,
+      "char_end": 60,
+      "start": 2.7291028368794326,
+      "end": 2.9297721631205675,
+      "confidence": 0.01887921430170536
+    },
+    {
+      "word": "so",
+      "char_start": 61,
+      "char_end": 63,
+      "start": 2.949839095744681,
+      "end": 2.9899729609929078,
+      "confidence": 0.0024482356384396553
+    },
+    {
+      "word": "we",
+      "char_start": 64,
+      "char_end": 66,
+      "start": 3.0301068262411346,
+      "end": 3.070240691489362,
+      "confidence": 0.016101226210594177
+    },
+    {
+      "word": "make",
+      "char_start": 67,
+      "char_end": 71,
+      "start": 3.1103745567375887,
+      "end": 3.1906422872340428,
+      "confidence": 0.007242410443723202
+    },
+    {
+      "word": "sure",
+      "char_start": 72,
+      "char_end": 76,
+      "start": 3.2307761524822696,
+      "end": 3.4113785460992907,
+      "confidence": 0.007076894864439964
+    },
+    {
+      "word": "all",
+      "char_start": 77,
+      "char_end": 80,
+      "start": 3.451512411347518,
+      "end": 3.5719140070921984,
+      "confidence": 0.01615111343562603
+    },
+    {
+      "word": "that",
+      "char_start": 81,
+      "char_end": 85,
+      "start": 3.6521817375886525,
+      "end": 3.7324494680851066,
+      "confidence": 0.013983886688947678
+    },
+    {
+      "word": "happens",
+      "char_start": 86,
+      "char_end": 93,
+      "start": 3.81271719858156,
+      "end": 4.033453457446808,
+      "confidence": 0.008606153540313244
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0802677304964539,
+      0.4816063829787234
+    ],
+    [
+      0.6822757092198581,
+      0.8829450354609929
+    ],
+    [
+      0.9431458333333333,
+      1.1839490248226952
+    ],
+    [
+      1.264216755319149,
+      1.4448191489361701
+    ],
+    [
+      1.645488475177305,
+      1.725756205673759
+    ],
+    [
+      1.8862916666666667,
+      1.9665593971631206
+    ],
+    [
+      2.0468271276595744,
+      2.3478311170212764
+    ],
+    [
+      2.3678980496453903,
+      2.5886343085106382
+    ],
+    [
+      2.7291028368794326,
+      2.9297721631205675
+    ],
+    [
+      2.949839095744681,
+      2.9899729609929078
+    ],
+    [
+      3.0301068262411346,
+      3.070240691489362
+    ],
+    [
+      3.1103745567375887,
+      3.1906422872340428
+    ],
+    [
+      3.2307761524822696,
+      3.4113785460992907
+    ],
+    [
+      3.451512411347518,
+      3.5719140070921984
+    ],
+    [
+      3.6521817375886525,
+      3.7324494680851066
+    ],
+    [
+      3.81271719858156,
+      4.033453457446808
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      11,
+      17
+    ],
+    [
+      18,
+      24
+    ],
+    [
+      25,
+      29
+    ],
+    [
+      30,
+      32
+    ],
+    [
+      33,
+      35
+    ],
+    [
+      36,
+      44
+    ],
+    [
+      45,
+      51
+    ],
+    [
+      52,
+      60
+    ],
+    [
+      61,
+      63
+    ],
+    [
+      64,
+      66
+    ],
+    [
+      67,
+      71
+    ],
+    [
+      72,
+      76
+    ],
+    [
+      77,
+      80
+    ],
+    [
+      81,
+      85
+    ],
+    [
+      86,
+      93
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    8332,
+    19363,
+    2503,
+    2031,
+    2000,
+    2022,
+    7919,
+    6911,
+    16578,
+    2061,
+    2057,
+    2191,
+    2469,
+    2035,
+    2008,
+    6433,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.658875,
+  "sample_id": "-NFrJFQijFE$_$1",
+  "video": "-NFrJFQijFE/1.mp4",
+  "original_text": "Structural mounts inside have to be properly stress analyzed so we make sure all that happens",
+  "face_detection_rate": 0.0,
+  "fps": 25.0,
+  "tokenization_truncated": false
+}

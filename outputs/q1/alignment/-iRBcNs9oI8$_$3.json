@@ -1,0 +1,637 @@
+{
+  "words": [
+    {
+      "word": "Well",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 0.9029755434782608,
+      "end": 1.0434384057971013,
+      "confidence": 0.4999564588069916
+    },
+    {
+      "word": "it",
+      "char_start": 6,
+      "char_end": 8,
+      "start": 1.2240335144927537,
+      "end": 1.2641657608695651,
+      "confidence": 3.005746111739427e-05
+    },
+    {
+      "word": "is",
+      "char_start": 9,
+      "char_end": 11,
+      "start": 1.9865461956521737,
+      "end": 2.0266784420289854,
+      "confidence": 0.0009936201386153698
+    },
+    {
+      "word": "the",
+      "char_start": 12,
+      "char_end": 15,
+      "start": 2.2875380434782606,
+      "end": 2.4280009057971013,
+      "confidence": 0.6657607555389404
+    },
+    {
+      "word": "secret",
+      "char_start": 16,
+      "char_end": 22,
+      "start": 3.330976449275362,
+      "end": 3.6319682971014493,
+      "confidence": 0.33347460627555847
+    },
+    {
+      "word": "of",
+      "char_start": 23,
+      "char_end": 25,
+      "start": 3.852695652173913,
+      "end": 3.9931585144927535,
+      "confidence": 0.9652869701385498
+    },
+    {
+      "word": "power",
+      "char_start": 26,
+      "char_end": 31,
+      "start": 4.414547101449275,
+      "end": 4.956332427536232,
+      "confidence": 0.21205385029315948
+    },
+    {
+      "word": "pose",
+      "char_start": 32,
+      "char_end": 36,
+      "start": 5.116861413043478,
+      "end": 5.457985507246376,
+      "confidence": 0.25002506375312805
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.9029755434782608,
+      1.0434384057971013
+    ],
+    [
+      1.2240335144927537,
+      1.2641657608695651
+    ],
+    [
+      1.2240335144927537,
+      1.2641657608695651
+    ],
+    [
+      1.9865461956521737,
+      2.0266784420289854
+    ],
+    [
+      2.2875380434782606,
+      2.4280009057971013
+    ],
+    [
+      3.330976449275362,
+      3.6319682971014493
+    ],
+    [
+      3.852695652173913,
+      3.9931585144927535
+    ],
+    [
+      4.414547101449275,
+      4.956332427536232
+    ],
+    [
+      5.116861413043478,
+      5.457985507246376
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      16,
+      22
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      26,
+      31
+    ],
+    [
+      32,
+      36
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2092,
+    1010,
+    2009,
+    2003,
+    1996,
+    3595,
+    1997,
+    2373,
+    13382,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.53825,
+  "sample_id": "-iRBcNs9oI8$_$3",
+  "video": "-iRBcNs9oI8/3.mp4",
+  "original_text": "Well, it is the secret of power pose",
+  "face_detection_rate": 0.9642857142857143,
+  "fps": 29.97002997002997,
+  "tokenization_truncated": false
+}

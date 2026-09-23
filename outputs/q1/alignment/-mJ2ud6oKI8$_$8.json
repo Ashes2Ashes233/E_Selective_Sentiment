@@ -1,0 +1,661 @@
+{
+  "words": [
+    {
+      "word": "Sometimes",
+      "char_start": 0,
+      "char_end": 9,
+      "start": 0.7821328125,
+      "end": 1.1431171875000001,
+      "confidence": 0.11581581830978394
+    },
+    {
+      "word": "we",
+      "char_start": 10,
+      "char_end": 12,
+      "start": 1.2233359375000001,
+      "end": 1.36371875,
+      "confidence": 0.00014842540258541703
+    },
+    {
+      "word": "have",
+      "char_start": 13,
+      "char_end": 17,
+      "start": 1.4439375,
+      "end": 1.6244296875000002,
+      "confidence": 0.44936609268188477
+    },
+    {
+      "word": "to",
+      "char_start": 18,
+      "char_end": 20,
+      "start": 1.6444843750000002,
+      "end": 1.7848671875000002,
+      "confidence": 0.4590798318386078
+    },
+    {
+      "word": "stretch",
+      "char_start": 21,
+      "char_end": 28,
+      "start": 2.0255234375,
+      "end": 2.3463984375,
+      "confidence": 0.01769082434475422
+    },
+    {
+      "word": "that",
+      "char_start": 29,
+      "char_end": 33,
+      "start": 2.3865078125,
+      "end": 2.4667265625000003,
+      "confidence": 0.21805895864963531
+    },
+    {
+      "word": "joint",
+      "char_start": 34,
+      "char_end": 39,
+      "start": 2.5469453125,
+      "end": 2.7876015625000004,
+      "confidence": 2.599736035335809e-05
+    },
+    {
+      "word": "that",
+      "char_start": 40,
+      "char_end": 44,
+      "start": 2.9279843750000003,
+      "end": 3.0683671875000003,
+      "confidence": 0.49982115626335144
+    },
+    {
+      "word": "is",
+      "char_start": 45,
+      "char_end": 47,
+      "start": 3.2288046875000003,
+      "end": 3.2689140625000004,
+      "confidence": 0.01310095563530922
+    },
+    {
+      "word": "already",
+      "char_start": 48,
+      "char_end": 55,
+      "start": 3.3892421875000003,
+      "end": 3.7502265625000004,
+      "confidence": 0.3117115795612335
+    },
+    {
+      "word": "irritated",
+      "char_start": 56,
+      "char_end": 65,
+      "start": 3.7903359375,
+      "end": 4.171375,
+      "confidence": 0.1776048243045807
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.7821328125,
+      1.1431171875000001
+    ],
+    [
+      1.2233359375000001,
+      1.36371875
+    ],
+    [
+      1.4439375,
+      1.6244296875000002
+    ],
+    [
+      1.6444843750000002,
+      1.7848671875000002
+    ],
+    [
+      2.0255234375,
+      2.3463984375
+    ],
+    [
+      2.3865078125,
+      2.4667265625000003
+    ],
+    [
+      2.5469453125,
+      2.7876015625000004
+    ],
+    [
+      2.9279843750000003,
+      3.0683671875000003
+    ],
+    [
+      3.2288046875000003,
+      3.2689140625000004
+    ],
+    [
+      3.3892421875000003,
+      3.7502265625000004
+    ],
+    [
+      3.7903359375,
+      4.171375
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      13,
+      17
+    ],
+    [
+      18,
+      20
+    ],
+    [
+      21,
+      28
+    ],
+    [
+      29,
+      33
+    ],
+    [
+      34,
+      39
+    ],
+    [
+      40,
+      44
+    ],
+    [
+      45,
+      47
+    ],
+    [
+      48,
+      55
+    ],
+    [
+      56,
+      65
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2823,
+    2057,
+    2031,
+    2000,
+    7683,
+    2008,
+    4101,
+    2008,
+    2003,
+    2525,
+    15560,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.171375,
+  "sample_id": "-mJ2ud6oKI8$_$8",
+  "video": "-mJ2ud6oKI8/8.mp4",
+  "original_text": "Sometimes we have to stretch that joint that is already irritated",
+  "face_detection_rate": 1.0,
+  "fps": 29.97002997002997,
+  "tokenization_truncated": false
+}

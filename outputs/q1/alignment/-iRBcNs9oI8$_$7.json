@@ -1,0 +1,645 @@
+{
+  "words": [
+    {
+      "word": "Well",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 0.040057499999999996,
+      "end": 0.22031625,
+      "confidence": 0.24998484551906586
+    },
+    {
+      "word": "for",
+      "char_start": 6,
+      "char_end": 9,
+      "start": 0.2804025,
+      "end": 0.36051749999999994,
+      "confidence": 4.8163154133362696e-05
+    },
+    {
+      "word": "starters",
+      "char_start": 10,
+      "char_end": 18,
+      "start": 0.42060374999999994,
+      "end": 1.5822712499999998,
+      "confidence": 0.3481621742248535
+    },
+    {
+      "word": "let's",
+      "char_start": 20,
+      "char_end": 25,
+      "start": 1.6223287499999999,
+      "end": 1.9427887499999998,
+      "confidence": 0.19999901950359344
+    },
+    {
+      "word": "look",
+      "char_start": 26,
+      "char_end": 30,
+      "start": 2.40345,
+      "end": 2.5636799999999997,
+      "confidence": 1.448855982744135e-06
+    },
+    {
+      "word": "at",
+      "char_start": 31,
+      "char_end": 33,
+      "start": 2.6237662499999996,
+      "end": 2.7639674999999997,
+      "confidence": 0.4999993145465851
+    },
+    {
+      "word": "the",
+      "char_start": 34,
+      "char_end": 37,
+      "start": 2.9041687499999997,
+      "end": 3.0043124999999997,
+      "confidence": 0.7491823434829712
+    },
+    {
+      "word": "word",
+      "char_start": 38,
+      "char_end": 42,
+      "start": 3.1645424999999996,
+      "end": 3.3047437499999996,
+      "confidence": 0.24999678134918213
+    },
+    {
+      "word": "power",
+      "char_start": 44,
+      "char_end": 49,
+      "start": 3.6051749999999996,
+      "end": 3.9857212499999997,
+      "confidence": 0.3516260087490082
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.040057499999999996,
+      0.22031625
+    ],
+    [
+      0.2804025,
+      0.36051749999999994
+    ],
+    [
+      0.2804025,
+      0.36051749999999994
+    ],
+    [
+      0.42060374999999994,
+      1.5822712499999998
+    ],
+    [
+      1.6223287499999999,
+      1.9427887499999998
+    ],
+    [
+      1.6223287499999999,
+      1.9427887499999998
+    ],
+    [
+      1.6223287499999999,
+      1.9427887499999998
+    ],
+    [
+      1.6223287499999999,
+      1.9427887499999998
+    ],
+    [
+      2.40345,
+      2.5636799999999997
+    ],
+    [
+      2.6237662499999996,
+      2.7639674999999997
+    ],
+    [
+      2.9041687499999997,
+      3.0043124999999997
+    ],
+    [
+      3.1645424999999996,
+      3.3047437499999996
+    ],
+    [
+      3.6051749999999996,
+      3.9857212499999997
+    ],
+    [
+      3.6051749999999996,
+      3.9857212499999997
+    ],
+    [
+      3.6051749999999996,
+      3.9857212499999997
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      10,
+      18
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      30
+    ],
+    [
+      31,
+      33
+    ],
+    [
+      34,
+      37
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      43,
+      44
+    ],
+    [
+      44,
+      49
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2092,
+    1010,
+    2005,
+    29400,
+    1010,
+    2292,
+    1005,
+    1055,
+    2298,
+    2012,
+    1996,
+    2773,
+    1000,
+    2373,
+    1000,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.00575,
+  "sample_id": "-iRBcNs9oI8$_$7",
+  "video": "-iRBcNs9oI8/7.mp4",
+  "original_text": "Well, for starters, let's look at the word \"power\"",
+  "face_detection_rate": 1.0,
+  "fps": 29.97002997002997,
+  "tokenization_truncated": false
+}

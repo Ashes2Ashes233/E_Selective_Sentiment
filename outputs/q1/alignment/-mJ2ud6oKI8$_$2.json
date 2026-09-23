@@ -1,0 +1,661 @@
+{
+  "words": [
+    {
+      "word": "So",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.0,
+      "end": 0.06022909330985916,
+      "confidence": 0.026779890060424805
+    },
+    {
+      "word": "physical",
+      "char_start": 3,
+      "char_end": 11,
+      "start": 0.08030545774647888,
+      "end": 0.4015272887323944,
+      "confidence": 0.016906501725316048
+    },
+    {
+      "word": "therapists",
+      "char_start": 12,
+      "char_end": 22,
+      "start": 0.4416800176056338,
+      "end": 1.3451164172535213,
+      "confidence": 0.024792367592453957
+    },
+    {
+      "word": "and",
+      "char_start": 23,
+      "char_end": 26,
+      "start": 1.3651927816901408,
+      "end": 1.425421875,
+      "confidence": 0.014303211122751236
+    },
+    {
+      "word": "chiropractors",
+      "char_start": 27,
+      "char_end": 40,
+      "start": 1.4454982394366198,
+      "end": 4.697869278169014,
+      "confidence": 0.016689803451299667
+    },
+    {
+      "word": "will",
+      "char_start": 41,
+      "char_end": 45,
+      "start": 4.738022007042254,
+      "end": 4.838403829225352,
+      "confidence": 0.00930111762136221
+    },
+    {
+      "word": "do",
+      "char_start": 46,
+      "char_end": 48,
+      "start": 4.858480193661972,
+      "end": 4.898632922535211,
+      "confidence": 0.011328743770718575
+    },
+    {
+      "word": "joint",
+      "char_start": 49,
+      "char_end": 54,
+      "start": 4.918709286971831,
+      "end": 5.01909110915493,
+      "confidence": 0.016660602763295174
+    },
+    {
+      "word": "manipulations",
+      "char_start": 55,
+      "char_end": 68,
+      "start": 5.039167473591549,
+      "end": 5.300160211267606,
+      "confidence": 0.018541283905506134
+    },
+    {
+      "word": "and",
+      "char_start": 69,
+      "char_end": 72,
+      "start": 5.320236575704225,
+      "end": 5.380465669014085,
+      "confidence": 0.014211808331310749
+    },
+    {
+      "word": "mobilizations",
+      "char_start": 73,
+      "char_end": 86,
+      "start": 5.400542033450704,
+      "end": 5.68161113556338,
+      "confidence": 0.018794776871800423
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.06022909330985916
+    ],
+    [
+      0.08030545774647888,
+      0.4015272887323944
+    ],
+    [
+      0.4416800176056338,
+      1.3451164172535213
+    ],
+    [
+      0.4416800176056338,
+      1.3451164172535213
+    ],
+    [
+      1.3651927816901408,
+      1.425421875
+    ],
+    [
+      1.4454982394366198,
+      4.697869278169014
+    ],
+    [
+      1.4454982394366198,
+      4.697869278169014
+    ],
+    [
+      1.4454982394366198,
+      4.697869278169014
+    ],
+    [
+      1.4454982394366198,
+      4.697869278169014
+    ],
+    [
+      4.738022007042254,
+      4.838403829225352
+    ],
+    [
+      4.858480193661972,
+      4.898632922535211
+    ],
+    [
+      4.918709286971831,
+      5.01909110915493
+    ],
+    [
+      5.039167473591549,
+      5.300160211267606
+    ],
+    [
+      5.039167473591549,
+      5.300160211267606
+    ],
+    [
+      5.320236575704225,
+      5.380465669014085
+    ],
+    [
+      5.400542033450704,
+      5.68161113556338
+    ],
+    [
+      5.400542033450704,
+      5.68161113556338
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      23,
+      26
+    ],
+    [
+      27,
+      30
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      36,
+      40
+    ],
+    [
+      41,
+      45
+    ],
+    [
+      46,
+      48
+    ],
+    [
+      49,
+      54
+    ],
+    [
+      55,
+      67
+    ],
+    [
+      67,
+      68
+    ],
+    [
+      69,
+      72
+    ],
+    [
+      73,
+      85
+    ],
+    [
+      85,
+      86
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2061,
+    3558,
+    19294,
+    2015,
+    1998,
+    9610,
+    18981,
+    22648,
+    6591,
+    2097,
+    2079,
+    4101,
+    16924,
+    2015,
+    1998,
+    25580,
+    2015,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.7016875,
+  "sample_id": "-mJ2ud6oKI8$_$2",
+  "video": "-mJ2ud6oKI8/2.mp4",
+  "original_text": "So physical therapists and chiropractors will do joint manipulations and mobilizations",
+  "face_detection_rate": 0.2413793103448276,
+  "fps": 29.97002997002997,
+  "tokenization_truncated": false
+}

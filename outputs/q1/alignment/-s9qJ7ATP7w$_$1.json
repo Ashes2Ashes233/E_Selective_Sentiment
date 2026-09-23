@@ -1,0 +1,661 @@
+{
+  "words": [
+    {
+      "word": "But",
+      "char_start": 0,
+      "char_end": 3,
+      "start": 0.5427832792207793,
+      "end": 0.8443295454545455,
+      "confidence": 0.31790298223495483
+    },
+    {
+      "word": "the",
+      "char_start": 4,
+      "char_end": 7,
+      "start": 1.3670097402597403,
+      "end": 1.4273189935064936,
+      "confidence": 0.9709574580192566
+    },
+    {
+      "word": "hardest",
+      "char_start": 8,
+      "char_end": 15,
+      "start": 1.487628246753247,
+      "end": 1.7489683441558443,
+      "confidence": 0.95469069480896
+    },
+    {
+      "word": "thing",
+      "char_start": 16,
+      "char_end": 21,
+      "start": 1.7690714285714289,
+      "end": 1.8896899350649352,
+      "confidence": 0.9994308352470398
+    },
+    {
+      "word": "in",
+      "char_start": 22,
+      "char_end": 24,
+      "start": 1.9499991883116885,
+      "end": 1.9902053571428573,
+      "confidence": 0.9909595251083374
+    },
+    {
+      "word": "life",
+      "char_start": 25,
+      "char_end": 29,
+      "start": 2.030411525974026,
+      "end": 2.171133116883117,
+      "confidence": 0.9793755412101746
+    },
+    {
+      "word": "to",
+      "char_start": 30,
+      "char_end": 32,
+      "start": 2.211339285714286,
+      "end": 2.2716485389610392,
+      "confidence": 0.8520752787590027
+    },
+    {
+      "word": "learn",
+      "char_start": 33,
+      "char_end": 38,
+      "start": 2.3319577922077923,
+      "end": 2.553091720779221,
+      "confidence": 0.9403316974639893
+    },
+    {
+      "word": "is",
+      "char_start": 40,
+      "char_end": 42,
+      "start": 3.1561842532467534,
+      "end": 3.216493506493507,
+      "confidence": 0.8334088325500488
+    },
+    {
+      "word": "to",
+      "char_start": 43,
+      "char_end": 45,
+      "start": 3.27680275974026,
+      "end": 3.3572150974025976,
+      "confidence": 0.8620607256889343
+    },
+    {
+      "word": "lose",
+      "char_start": 46,
+      "char_end": 50,
+      "start": 3.417524350649351,
+      "end": 4.281956980519481,
+      "confidence": 0.8333621621131897
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5427832792207793,
+      0.8443295454545455
+    ],
+    [
+      1.3670097402597403,
+      1.4273189935064936
+    ],
+    [
+      1.487628246753247,
+      1.7489683441558443
+    ],
+    [
+      1.7690714285714289,
+      1.8896899350649352
+    ],
+    [
+      1.9499991883116885,
+      1.9902053571428573
+    ],
+    [
+      2.030411525974026,
+      2.171133116883117
+    ],
+    [
+      2.211339285714286,
+      2.2716485389610392
+    ],
+    [
+      2.3319577922077923,
+      2.553091720779221
+    ],
+    [
+      3.1561842532467534,
+      3.216493506493507
+    ],
+    [
+      3.1561842532467534,
+      3.216493506493507
+    ],
+    [
+      3.27680275974026,
+      3.3572150974025976
+    ],
+    [
+      3.417524350649351,
+      4.281956980519481
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      22,
+      24
+    ],
+    [
+      25,
+      29
+    ],
+    [
+      30,
+      32
+    ],
+    [
+      33,
+      38
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      40,
+      42
+    ],
+    [
+      43,
+      45
+    ],
+    [
+      46,
+      50
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2021,
+    1996,
+    18263,
+    2518,
+    1999,
+    2166,
+    2000,
+    4553,
+    1010,
+    2003,
+    2000,
+    4558,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.6438125,
+  "sample_id": "-s9qJ7ATP7w$_$1",
+  "video": "-s9qJ7ATP7w/1.mp4",
+  "original_text": "But the hardest thing in life to learn, is to lose",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

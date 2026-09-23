@@ -1,0 +1,653 @@
+{
+  "words": [
+    {
+      "word": "Secondly",
+      "char_start": 0,
+      "char_end": 8,
+      "start": 0.5618353658536585,
+      "end": 1.0434085365853658,
+      "confidence": 0.9726050496101379
+    },
+    {
+      "word": "another",
+      "char_start": 10,
+      "char_end": 17,
+      "start": 1.2641295731707316,
+      "end": 1.6253094512195119,
+      "confidence": 0.966646671295166
+    },
+    {
+      "word": "goal",
+      "char_start": 18,
+      "char_end": 22,
+      "start": 1.6855060975609755,
+      "end": 1.8861615853658533,
+      "confidence": 0.9627119898796082
+    },
+    {
+      "word": "of",
+      "char_start": 23,
+      "char_end": 25,
+      "start": 1.9664237804878046,
+      "end": 2.0065548780487803,
+      "confidence": 0.9982328414916992
+    },
+    {
+      "word": "exhibiting",
+      "char_start": 26,
+      "char_end": 36,
+      "start": 2.106882621951219,
+      "end": 2.5884557926829266,
+      "confidence": 0.9779773354530334
+    },
+    {
+      "word": "is",
+      "char_start": 38,
+      "char_end": 40,
+      "start": 2.7489801829268288,
+      "end": 2.809176829268292,
+      "confidence": 0.9973543286323547
+    },
+    {
+      "word": "building",
+      "char_start": 41,
+      "char_end": 49,
+      "start": 2.9095045731707314,
+      "end": 3.2907499999999996,
+      "confidence": 0.9797452688217163
+    },
+    {
+      "word": "your",
+      "char_start": 50,
+      "char_end": 54,
+      "start": 3.330881097560975,
+      "end": 3.4713399390243898,
+      "confidence": 0.9996803402900696
+    },
+    {
+      "word": "company",
+      "char_start": 55,
+      "char_end": 62,
+      "start": 3.531536585365853,
+      "end": 3.9127820121951213,
+      "confidence": 0.9998100996017456
+    },
+    {
+      "word": "image",
+      "char_start": 63,
+      "char_end": 68,
+      "start": 4.053240853658536,
+      "end": 4.3140929878048775,
+      "confidence": 0.9293451309204102
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5618353658536585,
+      1.0434085365853658
+    ],
+    [
+      1.2641295731707316,
+      1.6253094512195119
+    ],
+    [
+      1.2641295731707316,
+      1.6253094512195119
+    ],
+    [
+      1.6855060975609755,
+      1.8861615853658533
+    ],
+    [
+      1.9664237804878046,
+      2.0065548780487803
+    ],
+    [
+      2.106882621951219,
+      2.5884557926829266
+    ],
+    [
+      2.7489801829268288,
+      2.809176829268292
+    ],
+    [
+      2.9095045731707314,
+      3.2907499999999996
+    ],
+    [
+      3.330881097560975,
+      3.4713399390243898
+    ],
+    [
+      3.531536585365853,
+      3.9127820121951213
+    ],
+    [
+      4.053240853658536,
+      4.3140929878048775
+    ],
+    [
+      4.053240853658536,
+      4.3140929878048775
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      17
+    ],
+    [
+      18,
+      22
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      26,
+      36
+    ],
+    [
+      38,
+      40
+    ],
+    [
+      41,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      62
+    ],
+    [
+      63,
+      68
+    ],
+    [
+      68,
+      69
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    16378,
+    1010,
+    2178,
+    3125,
+    1997,
+    22922,
+    2003,
+    2311,
+    2115,
+    2194,
+    3746,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.936125,
+  "sample_id": "-egA8-b7-3M$_$9",
+  "video": "-egA8-b7-3M/9.mp4",
+  "original_text": "Secondly, another goal of exhibiting  is building your company image.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

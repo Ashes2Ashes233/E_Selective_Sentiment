@@ -1,0 +1,677 @@
+{
+  "words": [
+    {
+      "word": "In",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.12011236213235293,
+      "end": 0.38035581341911767,
+      "confidence": 0.0404064767062664
+    },
+    {
+      "word": "there",
+      "char_start": 9,
+      "char_end": 14,
+      "start": 0.5805430836397059,
+      "end": 3.0028090533088236,
+      "confidence": 0.9541693329811096
+    },
+    {
+      "word": "were",
+      "char_start": 15,
+      "char_end": 19,
+      "start": 3.0428465073529414,
+      "end": 3.1429401424632353,
+      "confidence": 0.9149342775344849
+    },
+    {
+      "word": "very",
+      "char_start": 20,
+      "char_end": 24,
+      "start": 3.2430337775735296,
+      "end": 3.503277228860294,
+      "confidence": 0.9949682354927063
+    },
+    {
+      "word": "serious",
+      "char_start": 25,
+      "char_end": 32,
+      "start": 3.6233895909926472,
+      "end": 4.0638015854779415,
+      "confidence": 0.974953830242157
+    },
+    {
+      "word": "tribal",
+      "char_start": 33,
+      "char_end": 39,
+      "start": 4.163895220588235,
+      "end": 4.5242323069852945,
+      "confidence": 0.8225695490837097
+    },
+    {
+      "word": "warfare",
+      "char_start": 40,
+      "char_end": 47,
+      "start": 4.724419577205882,
+      "end": 5.224887752757353,
+      "confidence": 0.9589522480964661
+    },
+    {
+      "word": "in",
+      "char_start": 48,
+      "char_end": 50,
+      "start": 5.44509375,
+      "end": 5.485131204044118,
+      "confidence": 0.9186649322509766
+    },
+    {
+      "word": "Kenya",
+      "char_start": 51,
+      "char_end": 56,
+      "start": 5.9655806525735295,
+      "end": 8.00749080882353,
+      "confidence": 0.626990020275116
+    },
+    {
+      "word": "following",
+      "char_start": 57,
+      "char_end": 66,
+      "start": 8.988408432904412,
+      "end": 9.34874551930147,
+      "confidence": 0.9844101667404175
+    },
+    {
+      "word": "a",
+      "char_start": 67,
+      "char_end": 68,
+      "start": 9.408801700367647,
+      "end": 9.428820427389706,
+      "confidence": 0.8666163682937622
+    },
+    {
+      "word": "disputed",
+      "char_start": 69,
+      "char_end": 77,
+      "start": 9.488876608455882,
+      "end": 9.949307329963235,
+      "confidence": 0.9403232932090759
+    },
+    {
+      "word": "election",
+      "char_start": 78,
+      "char_end": 86,
+      "start": 10.02938223805147,
+      "end": 10.409738051470589,
+      "confidence": 0.9386758804321289
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.12011236213235293,
+      0.38035581341911767
+    ],
+    [
+      0.12011236213235293,
+      0.38035581341911767
+    ],
+    [
+      0.5805430836397059,
+      3.0028090533088236
+    ],
+    [
+      0.5805430836397059,
+      3.0028090533088236
+    ],
+    [
+      3.0428465073529414,
+      3.1429401424632353
+    ],
+    [
+      3.2430337775735296,
+      3.503277228860294
+    ],
+    [
+      3.6233895909926472,
+      4.0638015854779415
+    ],
+    [
+      4.163895220588235,
+      4.5242323069852945
+    ],
+    [
+      4.724419577205882,
+      5.224887752757353
+    ],
+    [
+      5.44509375,
+      5.485131204044118
+    ],
+    [
+      5.9655806525735295,
+      8.00749080882353
+    ],
+    [
+      8.988408432904412,
+      9.34874551930147
+    ],
+    [
+      9.408801700367647,
+      9.428820427389706
+    ],
+    [
+      9.488876608455882,
+      9.949307329963235
+    ],
+    [
+      10.02938223805147,
+      10.409738051470589
+    ],
+    [
+      10.02938223805147,
+      10.409738051470589
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      14
+    ],
+    [
+      15,
+      19
+    ],
+    [
+      20,
+      24
+    ],
+    [
+      25,
+      32
+    ],
+    [
+      33,
+      39
+    ],
+    [
+      40,
+      47
+    ],
+    [
+      48,
+      50
+    ],
+    [
+      51,
+      56
+    ],
+    [
+      57,
+      66
+    ],
+    [
+      67,
+      68
+    ],
+    [
+      69,
+      77
+    ],
+    [
+      78,
+      86
+    ],
+    [
+      86,
+      87
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    1999,
+    2263,
+    1010,
+    2045,
+    2020,
+    2200,
+    3809,
+    8807,
+    8309,
+    1999,
+    7938,
+    2206,
+    1037,
+    11621,
+    2602,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 10.8901875,
+  "sample_id": "-aqamKhZ1Ec$_$0",
+  "video": "-aqamKhZ1Ec/0.mp4",
+  "original_text": "In 2008, there were very serious tribal warfare in Kenya following a disputed election.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

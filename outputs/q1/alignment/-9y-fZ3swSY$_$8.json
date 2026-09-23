@@ -1,0 +1,677 @@
+{
+  "words": [
+    {
+      "word": "That",
+      "char_start": 0,
+      "char_end": 4,
+      "start": 0.2609020408163265,
+      "end": 0.3813183673469388,
+      "confidence": 0.994050145149231
+    },
+    {
+      "word": "s",
+      "char_start": 5,
+      "char_end": 6,
+      "start": 0.42145714285714286,
+      "end": 0.4415265306122449,
+      "confidence": 0.8896632790565491
+    },
+    {
+      "word": "a",
+      "char_start": 7,
+      "char_end": 8,
+      "start": 0.5820122448979592,
+      "end": 0.6020816326530612,
+      "confidence": 0.7984884977340698
+    },
+    {
+      "word": "more",
+      "char_start": 9,
+      "char_end": 13,
+      "start": 0.9633306122448979,
+      "end": 1.1640244897959184,
+      "confidence": 0.9974333047866821
+    },
+    {
+      "word": "decent",
+      "char_start": 14,
+      "char_end": 20,
+      "start": 1.3647183673469387,
+      "end": 1.8062448979591836,
+      "confidence": 0.9616442918777466
+    },
+    {
+      "word": "and",
+      "char_start": 21,
+      "char_end": 24,
+      "start": 2.107285714285714,
+      "end": 2.1674938775510206,
+      "confidence": 0.991625964641571
+    },
+    {
+      "word": "more",
+      "char_start": 25,
+      "char_end": 29,
+      "start": 2.2076326530612245,
+      "end": 2.328048979591837,
+      "confidence": 0.9980069398880005
+    },
+    {
+      "word": "polite",
+      "char_start": 30,
+      "char_end": 36,
+      "start": 2.388257142857143,
+      "end": 2.789644897959184,
+      "confidence": 0.9350077509880066
+    },
+    {
+      "word": "way",
+      "char_start": 37,
+      "char_end": 40,
+      "start": 2.930130612244898,
+      "end": 3.0505469387755104,
+      "confidence": 0.9789404273033142
+    },
+    {
+      "word": "to",
+      "char_start": 41,
+      "char_end": 43,
+      "start": 3.1910326530612245,
+      "end": 3.291379591836735,
+      "confidence": 0.9995102286338806
+    },
+    {
+      "word": "call",
+      "char_start": 44,
+      "char_end": 48,
+      "start": 3.3515877551020408,
+      "end": 3.6124897959183673,
+      "confidence": 0.9880124926567078
+    },
+    {
+      "word": "a",
+      "char_start": 49,
+      "char_end": 50,
+      "start": 4.013877551020408,
+      "end": 4.03394693877551,
+      "confidence": 0.9933016300201416
+    },
+    {
+      "word": "lady",
+      "char_start": 51,
+      "char_end": 55,
+      "start": 4.0941551020408165,
+      "end": 4.415265306122449,
+      "confidence": 0.5726064443588257
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.2609020408163265,
+      0.3813183673469388
+    ],
+    [
+      0.42145714285714286,
+      0.4415265306122449
+    ],
+    [
+      0.42145714285714286,
+      0.4415265306122449
+    ],
+    [
+      0.5820122448979592,
+      0.6020816326530612
+    ],
+    [
+      0.9633306122448979,
+      1.1640244897959184
+    ],
+    [
+      1.3647183673469387,
+      1.8062448979591836
+    ],
+    [
+      2.107285714285714,
+      2.1674938775510206
+    ],
+    [
+      2.2076326530612245,
+      2.328048979591837
+    ],
+    [
+      2.388257142857143,
+      2.789644897959184
+    ],
+    [
+      2.930130612244898,
+      3.0505469387755104
+    ],
+    [
+      3.1910326530612245,
+      3.291379591836735
+    ],
+    [
+      3.3515877551020408,
+      3.6124897959183673
+    ],
+    [
+      4.013877551020408,
+      4.03394693877551
+    ],
+    [
+      4.0941551020408165,
+      4.415265306122449
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      13
+    ],
+    [
+      14,
+      20
+    ],
+    [
+      21,
+      24
+    ],
+    [
+      25,
+      29
+    ],
+    [
+      30,
+      36
+    ],
+    [
+      37,
+      40
+    ],
+    [
+      41,
+      43
+    ],
+    [
+      44,
+      48
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      51,
+      55
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2008,
+    1521,
+    1055,
+    1037,
+    2062,
+    11519,
+    1998,
+    2062,
+    13205,
+    2126,
+    2000,
+    2655,
+    1037,
+    3203,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.917,
+  "sample_id": "-9y-fZ3swSY$_$8",
+  "video": "-9y-fZ3swSY/8.mp4",
+  "original_text": "That’s a more decent and more polite way to call a lady",
+  "face_detection_rate": 0.8,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

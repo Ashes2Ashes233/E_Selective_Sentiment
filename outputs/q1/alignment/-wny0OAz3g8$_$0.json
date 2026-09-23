@@ -1,0 +1,653 @@
+{
+  "words": [
+    {
+      "word": "trade",
+      "char_start": 0,
+      "char_end": 5,
+      "start": 0.32137423312883434,
+      "end": 0.5021472392638037,
+      "confidence": 0.9135527610778809
+    },
+    {
+      "word": "labor",
+      "char_start": 6,
+      "char_end": 11,
+      "start": 0.5423190184049079,
+      "end": 0.7230920245398773,
+      "confidence": 0.9214015007019043
+    },
+    {
+      "word": "unions",
+      "char_start": 12,
+      "char_end": 18,
+      "start": 0.823521472392638,
+      "end": 1.0645521472392638,
+      "confidence": 0.9863300323486328
+    },
+    {
+      "word": "didn",
+      "char_start": 19,
+      "char_end": 23,
+      "start": 1.1448957055214724,
+      "end": 1.3055828220858896,
+      "confidence": 0.9935983419418335
+    },
+    {
+      "word": "t",
+      "char_start": 24,
+      "char_end": 25,
+      "start": 1.3457546012269939,
+      "end": 1.3658404907975459,
+      "confidence": 0.9999807476997375
+    },
+    {
+      "word": "allow",
+      "char_start": 26,
+      "char_end": 31,
+      "start": 1.4461840490797546,
+      "end": 1.6671288343558281,
+      "confidence": 0.9999041557312012
+    },
+    {
+      "word": "Black",
+      "char_start": 32,
+      "char_end": 37,
+      "start": 1.767558282208589,
+      "end": 1.9483312883435582,
+      "confidence": 0.9197542071342468
+    },
+    {
+      "word": "workers",
+      "char_start": 38,
+      "char_end": 45,
+      "start": 2.0085889570552147,
+      "end": 2.309877300613497,
+      "confidence": 0.9635766744613647
+    },
+    {
+      "word": "to",
+      "char_start": 46,
+      "char_end": 48,
+      "start": 2.350049079754601,
+      "end": 2.4303926380368095,
+      "confidence": 0.9424157738685608
+    },
+    {
+      "word": "join",
+      "char_start": 49,
+      "char_end": 53,
+      "start": 2.490650306748466,
+      "end": 2.71159509202454,
+      "confidence": 0.9965354800224304
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.32137423312883434,
+      0.5021472392638037
+    ],
+    [
+      0.5423190184049079,
+      0.7230920245398773
+    ],
+    [
+      0.823521472392638,
+      1.0645521472392638
+    ],
+    [
+      1.1448957055214724,
+      1.3055828220858896
+    ],
+    [
+      1.3457546012269939,
+      1.3658404907975459
+    ],
+    [
+      1.3457546012269939,
+      1.3658404907975459
+    ],
+    [
+      1.4461840490797546,
+      1.6671288343558281
+    ],
+    [
+      1.767558282208589,
+      1.9483312883435582
+    ],
+    [
+      2.0085889570552147,
+      2.309877300613497
+    ],
+    [
+      2.350049079754601,
+      2.4303926380368095
+    ],
+    [
+      2.490650306748466,
+      2.71159509202454
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      19,
+      23
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      31
+    ],
+    [
+      32,
+      37
+    ],
+    [
+      38,
+      45
+    ],
+    [
+      46,
+      48
+    ],
+    [
+      49,
+      53
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    3119,
+    4450,
+    9209,
+    2134,
+    1521,
+    1056,
+    3499,
+    2304,
+    3667,
+    2000,
+    3693,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 3.274,
+  "sample_id": "-wny0OAz3g8$_$0",
+  "video": "-wny0OAz3g8/0.mp4",
+  "original_text": "trade labor unions didn’t allow Black workers to join",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

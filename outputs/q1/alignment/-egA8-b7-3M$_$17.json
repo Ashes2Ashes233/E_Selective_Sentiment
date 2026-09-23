@@ -1,0 +1,701 @@
+{
+  "words": [
+    {
+      "word": "As",
+      "char_start": 0,
+      "char_end": 2,
+      "start": 0.6213354519774011,
+      "end": 0.7015077683615819,
+      "confidence": 0.9889900088310242
+    },
+    {
+      "word": "you",
+      "char_start": 3,
+      "char_end": 6,
+      "start": 0.7616370056497175,
+      "end": 0.8618524011299435,
+      "confidence": 0.9989124536514282
+    },
+    {
+      "word": "have",
+      "char_start": 7,
+      "char_end": 11,
+      "start": 0.9620677966101695,
+      "end": 1.1023693502824858,
+      "confidence": 0.9987912178039551
+    },
+    {
+      "word": "more",
+      "char_start": 12,
+      "char_end": 16,
+      "start": 1.1825416666666666,
+      "end": 1.3629293785310734,
+      "confidence": 0.9386760592460632
+    },
+    {
+      "word": "experience",
+      "char_start": 17,
+      "char_end": 27,
+      "start": 1.4431016949152542,
+      "end": 2.0644371468926552,
+      "confidence": 0.9736750721931458
+    },
+    {
+      "word": "you",
+      "char_start": 29,
+      "char_end": 32,
+      "start": 3.226935734463277,
+      "end": 3.3071080508474577,
+      "confidence": 0.9979938864707947
+    },
+    {
+      "word": "have",
+      "char_start": 33,
+      "char_end": 37,
+      "start": 3.4073234463276836,
+      "end": 3.527581920903955,
+      "confidence": 0.91089928150177
+    },
+    {
+      "word": "more",
+      "char_start": 38,
+      "char_end": 42,
+      "start": 3.5877111581920906,
+      "end": 3.7680988700564972,
+      "confidence": 0.9904757738113403
+    },
+    {
+      "word": "times",
+      "char_start": 43,
+      "char_end": 48,
+      "start": 3.848271186440678,
+      "end": 4.189003531073446,
+      "confidence": 0.9958971738815308
+    },
+    {
+      "word": "exhibiting",
+      "char_start": 49,
+      "char_end": 59,
+      "start": 4.3092620056497175,
+      "end": 4.850425141242938,
+      "confidence": 0.9519338011741638
+    },
+    {
+      "word": "you",
+      "char_start": 61,
+      "char_end": 64,
+      "start": 5.251286723163842,
+      "end": 5.351502118644068,
+      "confidence": 0.9008930325508118
+    },
+    {
+      "word": "get",
+      "char_start": 65,
+      "char_end": 68,
+      "start": 5.411631355932204,
+      "end": 5.531889830508475,
+      "confidence": 0.9992206692695618
+    },
+    {
+      "word": "to",
+      "char_start": 69,
+      "char_end": 71,
+      "start": 5.592019067796611,
+      "end": 5.652148305084745,
+      "confidence": 0.9055516123771667
+    },
+    {
+      "word": "know",
+      "char_start": 72,
+      "char_end": 76,
+      "start": 5.712277542372881,
+      "end": 5.872622175141243,
+      "confidence": 0.6949541568756104
+    },
+    {
+      "word": "more",
+      "char_start": 77,
+      "char_end": 81,
+      "start": 5.952794491525424,
+      "end": 6.113139124293785,
+      "confidence": 0.9999721646308899
+    },
+    {
+      "word": "people",
+      "char_start": 82,
+      "char_end": 88,
+      "start": 6.193311440677967,
+      "end": 6.51400070621469,
+      "confidence": 0.9994520545005798
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.6213354519774011,
+      0.7015077683615819
+    ],
+    [
+      0.7616370056497175,
+      0.8618524011299435
+    ],
+    [
+      0.9620677966101695,
+      1.1023693502824858
+    ],
+    [
+      1.1825416666666666,
+      1.3629293785310734
+    ],
+    [
+      1.4431016949152542,
+      2.0644371468926552
+    ],
+    [
+      3.226935734463277,
+      3.3071080508474577
+    ],
+    [
+      3.226935734463277,
+      3.3071080508474577
+    ],
+    [
+      3.4073234463276836,
+      3.527581920903955
+    ],
+    [
+      3.5877111581920906,
+      3.7680988700564972
+    ],
+    [
+      3.848271186440678,
+      4.189003531073446
+    ],
+    [
+      4.3092620056497175,
+      4.850425141242938
+    ],
+    [
+      5.251286723163842,
+      5.351502118644068
+    ],
+    [
+      5.251286723163842,
+      5.351502118644068
+    ],
+    [
+      5.411631355932204,
+      5.531889830508475
+    ],
+    [
+      5.592019067796611,
+      5.652148305084745
+    ],
+    [
+      5.712277542372881,
+      5.872622175141243
+    ],
+    [
+      5.952794491525424,
+      6.113139124293785
+    ],
+    [
+      6.193311440677967,
+      6.51400070621469
+    ],
+    [
+      6.193311440677967,
+      6.51400070621469
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      7,
+      11
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      17,
+      27
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      29,
+      32
+    ],
+    [
+      33,
+      37
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      43,
+      48
+    ],
+    [
+      49,
+      59
+    ],
+    [
+      59,
+      60
+    ],
+    [
+      61,
+      64
+    ],
+    [
+      65,
+      68
+    ],
+    [
+      69,
+      71
+    ],
+    [
+      72,
+      76
+    ],
+    [
+      77,
+      81
+    ],
+    [
+      82,
+      88
+    ],
+    [
+      88,
+      89
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2004,
+    2017,
+    2031,
+    2062,
+    3325,
+    1010,
+    2017,
+    2031,
+    2062,
+    2335,
+    22922,
+    1010,
+    2017,
+    2131,
+    2000,
+    2113,
+    2062,
+    2111,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 7.09525,
+  "sample_id": "-egA8-b7-3M$_$17",
+  "video": "-egA8-b7-3M/17.mp4",
+  "original_text": "As you have more experience, you have more times exhibiting, you get to know more people.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

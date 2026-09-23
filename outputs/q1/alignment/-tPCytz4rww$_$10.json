@@ -1,0 +1,669 @@
+{
+  "words": [
+    {
+      "word": "Say",
+      "char_start": 0,
+      "char_end": 3,
+      "start": 0.6024222103004293,
+      "end": 0.7229066523605151,
+      "confidence": 0.9994628429412842
+    },
+    {
+      "word": "twenty",
+      "char_start": 4,
+      "char_end": 10,
+      "start": 0.8032296137339057,
+      "end": 1.0241177575107296,
+      "confidence": 0.9996824860572815
+    },
+    {
+      "word": "percent",
+      "char_start": 11,
+      "char_end": 18,
+      "start": 1.0843599785407727,
+      "end": 1.4458133047210302,
+      "confidence": 0.9403584599494934
+    },
+    {
+      "word": "so",
+      "char_start": 19,
+      "char_end": 21,
+      "start": 1.5863784871244637,
+      "end": 1.7269436695278972,
+      "confidence": 0.9999048113822937
+    },
+    {
+      "word": "if",
+      "char_start": 22,
+      "char_end": 24,
+      "start": 1.9478318133047212,
+      "end": 1.9879932939914164,
+      "confidence": 0.9996569752693176
+    },
+    {
+      "word": "you've",
+      "char_start": 25,
+      "char_end": 31,
+      "start": 2.0482355150214593,
+      "end": 2.2088814377682406,
+      "confidence": 0.9560626149177551
+    },
+    {
+      "word": "got",
+      "char_start": 32,
+      "char_end": 35,
+      "start": 2.249042918454936,
+      "end": 2.3293658798283263,
+      "confidence": 0.7943961024284363
+    },
+    {
+      "word": "a",
+      "char_start": 36,
+      "char_end": 37,
+      "start": 2.389608100858369,
+      "end": 2.4096888412017172,
+      "confidence": 0.9922687411308289
+    },
+    {
+      "word": "thousand",
+      "char_start": 38,
+      "char_end": 46,
+      "start": 2.46993106223176,
+      "end": 2.7912229077253223,
+      "confidence": 0.9990925788879395
+    },
+    {
+      "word": "square",
+      "char_start": 47,
+      "char_end": 53,
+      "start": 2.81130364806867,
+      "end": 3.0522725321888418,
+      "confidence": 0.9817140102386475
+    },
+    {
+      "word": "foot",
+      "char_start": 54,
+      "char_end": 58,
+      "start": 3.1125147532188846,
+      "end": 3.293241416309013,
+      "confidence": 0.9790018200874329
+    },
+    {
+      "word": "condo",
+      "char_start": 59,
+      "char_end": 64,
+      "start": 3.6948562231759663,
+      "end": 4.036228809012876,
+      "confidence": 0.9224416613578796
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.6024222103004293,
+      0.7229066523605151
+    ],
+    [
+      0.8032296137339057,
+      1.0241177575107296
+    ],
+    [
+      1.0843599785407727,
+      1.4458133047210302
+    ],
+    [
+      1.5863784871244637,
+      1.7269436695278972
+    ],
+    [
+      1.9478318133047212,
+      1.9879932939914164
+    ],
+    [
+      2.0482355150214593,
+      2.2088814377682406
+    ],
+    [
+      2.0482355150214593,
+      2.2088814377682406
+    ],
+    [
+      2.0482355150214593,
+      2.2088814377682406
+    ],
+    [
+      2.249042918454936,
+      2.3293658798283263
+    ],
+    [
+      2.389608100858369,
+      2.4096888412017172
+    ],
+    [
+      2.46993106223176,
+      2.7912229077253223
+    ],
+    [
+      2.81130364806867,
+      3.0522725321888418
+    ],
+    [
+      3.1125147532188846,
+      3.293241416309013
+    ],
+    [
+      3.6948562231759663,
+      4.036228809012876
+    ],
+    [
+      3.6948562231759663,
+      4.036228809012876
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      11,
+      18
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      22,
+      24
+    ],
+    [
+      25,
+      28
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      29,
+      31
+    ],
+    [
+      32,
+      35
+    ],
+    [
+      36,
+      37
+    ],
+    [
+      38,
+      46
+    ],
+    [
+      47,
+      53
+    ],
+    [
+      54,
+      58
+    ],
+    [
+      59,
+      64
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2360,
+    3174,
+    3867,
+    2061,
+    2065,
+    2017,
+    1005,
+    2310,
+    2288,
+    1037,
+    4595,
+    2675,
+    3329,
+    25805,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 4.6788125,
+  "sample_id": "-tPCytz4rww$_$10",
+  "video": "-tPCytz4rww/10.mp4",
+  "original_text": "Say twenty percent so if you've got a thousand square foot condo.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

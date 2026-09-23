@@ -1,0 +1,693 @@
+{
+  "words": [
+    {
+      "word": "They've",
+      "char_start": 0,
+      "char_end": 7,
+      "start": 1.4451189591078066,
+      "end": 1.6056877323420073,
+      "confidence": 0.9695807099342346
+    },
+    {
+      "word": "been",
+      "char_start": 8,
+      "char_end": 12,
+      "start": 1.6257588289962825,
+      "end": 1.746185408921933,
+      "confidence": 0.9655414819717407
+    },
+    {
+      "word": "able",
+      "char_start": 13,
+      "char_end": 17,
+      "start": 1.766256505576208,
+      "end": 1.9067541821561338,
+      "confidence": 0.9984213709831238
+    },
+    {
+      "word": "to",
+      "char_start": 18,
+      "char_end": 20,
+      "start": 1.9669674721189592,
+      "end": 2.0271807620817843,
+      "confidence": 0.930485725402832
+    },
+    {
+      "word": "find",
+      "char_start": 21,
+      "char_end": 25,
+      "start": 2.187749535315985,
+      "end": 2.388460501858736,
+      "confidence": 0.9970914721488953
+    },
+    {
+      "word": "solutions",
+      "char_start": 26,
+      "char_end": 35,
+      "start": 2.448673791821561,
+      "end": 2.9303801115241637,
+      "confidence": 0.9679839015007019
+    },
+    {
+      "word": "or",
+      "char_start": 36,
+      "char_end": 38,
+      "start": 3.030735594795539,
+      "end": 3.070877788104089,
+      "confidence": 0.8461669087409973
+    },
+    {
+      "word": "at",
+      "char_start": 39,
+      "char_end": 41,
+      "start": 3.1712332713754647,
+      "end": 3.251517657992565,
+      "confidence": 0.6166117191314697
+    },
+    {
+      "word": "least",
+      "char_start": 42,
+      "char_end": 47,
+      "start": 3.27158875464684,
+      "end": 3.412086431226766,
+      "confidence": 0.24083395302295685
+    },
+    {
+      "word": "bring",
+      "char_start": 48,
+      "char_end": 53,
+      "start": 3.472299721189591,
+      "end": 3.7332239776951672,
+      "confidence": 0.8388603925704956
+    },
+    {
+      "word": "some",
+      "char_start": 54,
+      "char_end": 58,
+      "start": 3.8135083643122676,
+      "end": 3.9740771375464683,
+      "confidence": 0.9829294681549072
+    },
+    {
+      "word": "answers",
+      "char_start": 59,
+      "char_end": 66,
+      "start": 4.074432620817844,
+      "end": 4.355427973977695,
+      "confidence": 0.6735943555831909
+    },
+    {
+      "word": "to",
+      "char_start": 67,
+      "char_end": 69,
+      "start": 4.3955701672862455,
+      "end": 4.4357123605947955,
+      "confidence": 0.9913440942764282
+    },
+    {
+      "word": "the",
+      "char_start": 70,
+      "char_end": 73,
+      "start": 4.475854553903345,
+      "end": 4.576210037174721,
+      "confidence": 0.9238796234130859
+    },
+    {
+      "word": "table",
+      "char_start": 74,
+      "char_end": 79,
+      "start": 4.616352230483272,
+      "end": 4.877276486988848,
+      "confidence": 0.9949912428855896
+    }
+  ],
+  "token_spans": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1.4451189591078066,
+      1.6056877323420073
+    ],
+    [
+      1.4451189591078066,
+      1.6056877323420073
+    ],
+    [
+      1.4451189591078066,
+      1.6056877323420073
+    ],
+    [
+      1.6257588289962825,
+      1.746185408921933
+    ],
+    [
+      1.766256505576208,
+      1.9067541821561338
+    ],
+    [
+      1.9669674721189592,
+      2.0271807620817843
+    ],
+    [
+      2.187749535315985,
+      2.388460501858736
+    ],
+    [
+      2.448673791821561,
+      2.9303801115241637
+    ],
+    [
+      3.030735594795539,
+      3.070877788104089
+    ],
+    [
+      3.1712332713754647,
+      3.251517657992565
+    ],
+    [
+      3.27158875464684,
+      3.412086431226766
+    ],
+    [
+      3.472299721189591,
+      3.7332239776951672
+    ],
+    [
+      3.8135083643122676,
+      3.9740771375464683
+    ],
+    [
+      4.074432620817844,
+      4.355427973977695
+    ],
+    [
+      4.3955701672862455,
+      4.4357123605947955
+    ],
+    [
+      4.475854553903345,
+      4.576210037174721
+    ],
+    [
+      4.616352230483272,
+      4.877276486988848
+    ],
+    [
+      4.616352230483272,
+      4.877276486988848
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "token_quality": [
+    "special_or_padding",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "ctc_forced_alignment",
+    "approximate_nearest_word",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding",
+    "special_or_padding"
+  ],
+  "token_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      13,
+      17
+    ],
+    [
+      18,
+      20
+    ],
+    [
+      21,
+      25
+    ],
+    [
+      26,
+      35
+    ],
+    [
+      36,
+      38
+    ],
+    [
+      39,
+      41
+    ],
+    [
+      42,
+      47
+    ],
+    [
+      48,
+      53
+    ],
+    [
+      54,
+      58
+    ],
+    [
+      59,
+      66
+    ],
+    [
+      67,
+      69
+    ],
+    [
+      70,
+      73
+    ],
+    [
+      74,
+      79
+    ],
+    [
+      79,
+      80
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "input_ids": [
+    101,
+    2027,
+    1005,
+    2310,
+    2042,
+    2583,
+    2000,
+    2424,
+    7300,
+    2030,
+    2012,
+    2560,
+    3288,
+    2070,
+    6998,
+    2000,
+    1996,
+    2795,
+    1012,
+    102,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attention_mask": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "status": "ctc_forced_alignment",
+  "error": "",
+  "duration": 5.399125,
+  "sample_id": "-3g5yACwYnA$_$13",
+  "video": "-3g5yACwYnA/13.mp4",
+  "original_text": "They've been able to find solutions or at least bring some answers to the table.",
+  "face_detection_rate": 1.0,
+  "fps": 30.0,
+  "tokenization_truncated": false
+}

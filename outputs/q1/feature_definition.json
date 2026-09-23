@@ -1,0 +1,13 @@
+{
+  "text": "Frozen bert-base-uncased final layer; WordPiece positions; float16 storage",
+  "audio": "13 MFCC + 13 first deltas + RMS/ZCR/centroid/bandwidth/rolloff/flatness; 32 dimensions",
+  "vision": "16 face-region DCT + 6 HSV statistics + 4 normalized box coordinates + 2 grayscale statistics + 7 flow statistics; 35 dimensions",
+  "face_fallback": "Use whole frame when Haar detector fails; detection rate is reported",
+  "alignment": "CTC transcript forced alignment, WordPiece offset mapping, interval mean pooling",
+  "scope": "Q1 descriptive emotion-related proxies; NOT interchangeable with attachment2 acoustic/visual dimensions",
+  "versions": {
+    "torch": "2.7.1+cu128",
+    "opencv": "4.11.0",
+    "librosa": "0.11.0"
+  }
+}
