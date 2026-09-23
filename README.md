@@ -4,7 +4,7 @@
 
 ## 快速运行
 
-Python 3.12。默认数据目录为本项目同级的 `E题数据/E题数据`，使用对齐版。第一次准备：
+Python 3.12。默认数据为E题标准数据集。第一次准备：
 
 ```powershell
 python -m venv .venv
@@ -13,7 +13,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe run_all.py --epochs 8
 ```
 
-GPU建议安装与显卡兼容的CUDA版PyTorch；本次使用PyTorch 2.7.1+cu128。GPU不是必需，但冻结BERT和ASR在CPU上较慢。当前工作区的`.venv`已经配置；实际运行命令可直接使用该环境。
+GPU建议安装与显卡兼容的CUDA版PyTorch；使用PyTorch 2.7.1+cu128。GPU不是必需，但冻结BERT和ASR在CPU上较慢。当前工作区的`.venv`已经配置；实际运行命令可直接使用该环境。
 
 已有 `outputs/best.pt` 时，`run_all.py`跳过训练。`--retrain`明确要求重新训练。专项推理无需重新训练：
 
@@ -48,15 +48,9 @@ GPU建议安装与显卡兼容的CUDA版PyTorch；本次使用PyTorch 2.7.1+cu12
 
 解释使用完整预测与遮挡后的固定类别概率差、强度差。平均门控仅是选择行为。原始特征不附时间戳，问题3以强制对齐的词元时间映射对应位置，保留映射假设；不把50位置视为50个等时长区间。CTC失败时保留样本并明确标注近似回退。
 
-## 预训练权重与复现体积
-
-不在50MB提交包内打包通用BERT/ASR权重，运行前按download_models.py获取。下载来源和本次SHA256记录在pretrained各目录的download_manifest.json。默认下载器使用官方仓库main，因此远端未来发生变更时应核对原清单并获取匹配版本。冻结权重不参与情感训练；小型任务权重在outputs/best.pt。
-
 ## 来源
 
 - Yang, Chen and Kim. Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection. ECCV 2022. https://arxiv.org/abs/2205.06187
 - 原作者代码：https://github.com/mingyuyng/Visual-Selective-VIO
 - BERT：https://huggingface.co/google-bert/bert-base-uncased
 - ASR强制对齐发射模型：https://huggingface.co/facebook/wav2vec2-base-960h
-
-本实现为快速比赛版本，不将单次运行作为最优性、统计显著性或现实因果关系证明。报告中的所有性能数字从本地实际结果读取。
